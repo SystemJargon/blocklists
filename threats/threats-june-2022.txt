@@ -1,0 +1,71 @@
+## Domains blocklist ignore additional strings after domain for URL. ##
+## may contain some IP addresses which are used as url's to bypass domain tagging esp. on newly registered domains.
+# Bumblebee C2 (malicious) related
+cdn.jsdelivr.net
+28.11.143.222
+49.12.241.35
+185.33.87.53
+71.1.188.122
+89.222.221.14
+108.62.118.56
+ec2-18-118-156-145.us-east-2.compute.amazonaws.com
+gomuzigak.com
+# Cobalt Strike re-emerge
+zupeyico.com
+lentgenn.com
+policyupdating.com
+baronrtal.com
+45.153.243.93
+# EMOTET C2 traffic observations to block
+chobemaster.com
+bencevendeghaz.hu
+vibesapparels.com
+# IceID / BokBot / DarkVNC
+hectorcalle.com
+pilatylu.com
+guguchrome.com
+ganjicow.com
+callbackhubs.com
+84.32.190.49
+yolneanz.com
+# QAKBOT C2
+meumundocatolico.com
+smartleasesonora.com
+rizucem.com
+svfin.icu
+# Leveraged phishing and click-hijack
+email.teamsnap.com
+www.blank.com
+thovest.com
+# P2P domain with dubious subdomain links and suspcious downloads
+ipfs.nftstorage.link
+bafybeibjb2wwyaajzqjzbdsc4twowl3l4mti6pvbq6cqir46k7k3bgoniy.ipfs.nftstorage.link
+# SVCReady Malware
+muelgadr.top
+wikidreamers.com
+galmerts.art
+kikipi.art
+kokoroklo.su
+# Malicious-Phishing Link
+ep.cpq7o.bottegatoscana.com.hk
+# Fake Crack and Black-SEO
+goes12by.cfd
+baed92all.cfd
+aeddkiu6745q.cfd
+14redirect.cfd
+lixn62ft.cfd
+kohuy31ng.cfd
+wae23iku.cfd
+yhf78aq.cfd
+xzctn14il.cfd
+mihatrt34er.cfd
+oliy67sd.cfd
+er67ilky.cfd
+bny734uy.cfd
+uzas871iu.cfd
+dert1mku.cfd
+fr56cvfi.cfd
+asud28cv.cfd
+freefiles34.xyz
+freefiles33.xyz
+wrtgh56mh.cfd
