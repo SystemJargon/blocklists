@@ -510,3 +510,39 @@ xpressmexico.com
 xxxs.info
 zubesta1.com
 zupertech.com
+# Leveraged phishing and click-hijack
+email.teamsnap.com
+www.blank.com
+thovest.com
+# P2P domain with dubious subdomain links and suspcious downloads
+ipfs.nftstorage.link
+bafybeibjb2wwyaajzqjzbdsc4twowl3l4mti6pvbq6cqir46k7k3bgoniy.ipfs.nftstorage.link
+# SVCReady Malware
+muelgadr.top
+wikidreamers.com
+galmerts.art
+kikipi.art
+kokoroklo.su
+# Malicious-Phishing Link
+ep.cpq7o.bottegatoscana.com.hk
+# Fake Crack and Black-SEO
+goes12by.cfd
+baed92all.cfd
+aeddkiu6745q.cfd
+14redirect.cfd
+lixn62ft.cfd
+kohuy31ng.cfd
+wae23iku.cfd
+yhf78aq.cfd
+xzctn14il.cfd
+mihatrt34er.cfd
+oliy67sd.cfd
+er67ilky.cfd
+bny734uy.cfd
+uzas871iu.cfd
+dert1mku.cfd
+fr56cvfi.cfd
+asud28cv.cfd
+freefiles34.xyz
+freefiles33.xyz
+wrtgh56mh.cfd
