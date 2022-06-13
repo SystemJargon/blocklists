@@ -1,5 +1,11 @@
-## Domains blocklist ignore additional strings after domain for URL. ##
-## may contain some IP addresses which are used as url's to bypass domain tagging esp. on newly registered domains.
+# Follina CVE-2022-30190 related
+tibet-gov.web.app
+tibetyouthcongress.com
+t1bet.net
+www.xmlformats.com
+www.sputnikradio.net
+airjaldi.online
+tibet.bet
 # Bumblebee C2 (malicious) related
 cdn.jsdelivr.net
 28.11.143.222
