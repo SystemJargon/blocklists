@@ -1,6 +1,6 @@
 ### Blocklists for bad domains.
 
-This serves to be used in plain text format unless specified otherwise.
+Plain text format unless specified otherwise.
 
 Commented lines use # (usually to describe what/why)
 
