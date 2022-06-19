@@ -96,3 +96,19 @@ rexdooley.ml
 relay2.kuimvd.ru
 ns2.webmiting.ru
 фсб.com
+# Gallium - PingPull
+micfkbeljacob.com
+df.micfkbeljacob.com
+jack.micfkbeljacob.com
+hinitial.com
+t1.hinitial.com
+v2.hinitial.com
+v3.hinitial.com
+v4.hinitial.com
+v5.hinitial.com
+goodjob36.publicvm.com
+goodluck23.jp.us
+helpinfo.publicvm.com
+mailedc.publicvm.com
+# DIG manipulated DNS hijack
+cyberclub.one
