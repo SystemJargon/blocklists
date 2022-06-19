@@ -110,5 +110,3 @@ goodjob36.publicvm.com
 goodluck23.jp.us
 helpinfo.publicvm.com
 mailedc.publicvm.com
-# DIG manipulated DNS hijack
-cyberclub.one
