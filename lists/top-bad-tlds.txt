@@ -1,0 +1,40 @@
+# reference by the following reputable sources, in no particular order
+# https://www.spamhaus.org/statistics/tlds
+# https://unit42.paloaltonetworks.com/top-level-domains-cybercrime
+.cn
+.ru
+.ua
+.email
+.work
+.rest
+.ga
+.fit
+.gq
+.ml
+.cf
+.recipes
+.me
+.app
+.ph
+.xxx
+.xyz
+.yandex
+.zone
+.sex
+.sexy
+.software
+.ci
+.mw
+.surf
+.sx
+.top
+.bd
+.zw
+.ke
+.am
+.sbs
+.date
+.pw
+.quest
+.cd
+.bid
