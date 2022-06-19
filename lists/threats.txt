@@ -1,0 +1,18 @@
+# Threats - bad url and domains below to block
+www.echelon9.com
+api.echelon9.com
+dinterperson.xyz
+specgoal.com
+enlib2w9g8mze.x.pipedream.net
+# lockbit 2.0 related
+fibarcarolo.it
+gymund.dk
+gdctax.com.au
+ismea.it
+fed-gmbh.de
+suntecktts.com
+# emerging ransomware 
+decoding.at
+bigblog.at
+lockbit-decryptor.com
+lockbit-decryptor.top
