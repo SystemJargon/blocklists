@@ -7,7 +7,7 @@ www.sputnikradio.net
 airjaldi.online
 tibet.bet
 # Bumblebee C2 (malicious) related
-cdn.jsdelivr.net
+#cdn.jsdelivr.net # not always malicious, more sometimes misused.
 28.11.143.222
 49.12.241.35
 185.33.87.53
