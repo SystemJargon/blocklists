@@ -112,7 +112,7 @@ goodjob36.publicvm.com
 goodluck23.jp.us
 helpinfo.publicvm.com
 mailedc.publicvm.com
-# IceXLoader 3.0 Malware
+# IceXLoader 3.0 Malware # Includes C2 URLs and Download URLs - Source Fortinet
 kulcha.didns.ru
 r4yza92.com
 62.197.136.240
