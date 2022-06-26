@@ -3,7 +3,9 @@ tibet-gov.web.app
 tibetyouthcongress.com
 t1bet.net
 www.xmlformats.com
+xmlformats.com
 www.sputnikradio.net
+sputnikradio.net
 airjaldi.online
 tibet.bet
 # Bumblebee C2 (malicious) related
@@ -110,3 +112,11 @@ goodjob36.publicvm.com
 goodluck23.jp.us
 helpinfo.publicvm.com
 mailedc.publicvm.com
+# IceXLoader 3.0 Malware
+kulcha.didns.ru
+r4yza92.com
+62.197.136.240
+north.ac
+hhj.jbk0871.fun
+funmustsolutions.site
+golden-cheats.com
