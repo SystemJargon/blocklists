@@ -18,3 +18,5 @@ lockbit-decryptor.com
 lockbit-decryptor.top
 # DIG manipulated DNS hijack
 cyberclub.one
+# Phishing domain # Categorized by fortinet
+thesocialhire.in
