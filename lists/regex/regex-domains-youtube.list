@@ -1,0 +1,4 @@
+(^|\.)youtube\.com$
+(^|\.)googlevideo\.com$
+(^|\.)googleusercontent\.com$
+(\.|^|-)(youtubeeducation|youtube|ytimg|googlevideo|youtubegaming|youtube-nocookie|youtubei|yt3)[.]
