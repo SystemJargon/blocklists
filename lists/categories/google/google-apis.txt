@@ -1,5 +1,3 @@
-# include regex and text of the domain, then know of subdomains
-# (\.|^)googleapis\.com$ # regex entry
 googleapis.com
 playatoms-pa.googleapis.com
 quake-pa.googleapis.com
