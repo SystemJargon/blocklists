@@ -18,6 +18,8 @@ Links to my [Pi-hole](https://github.com/SystemJargon/pi-hole) and/or [AdGuardHo
 
 Notes:
 
+[Subdomains and Regex and formats](https://github.com/SystemJargon/blocklists/blob/main/subdomains-regex-formats.md)
+
 Source data comes from an array of discovery, detection, aggregation and other work by myself and others. 
 
 Commented lines use # (usually to describe what/why where and if applicable). 
