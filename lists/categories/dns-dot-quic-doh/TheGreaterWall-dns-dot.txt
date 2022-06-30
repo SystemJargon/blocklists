@@ -1,0 +1,838 @@
+### Last Updated May 2nd 2022 by systemjargon
+### Changes: removed duplicate lines between previous list above and the next one/s below. Merged two existing awesome lists.
+### Stripped out 0.0.0.0 from other lists below with source name and just kept the hostnames and comments.
+### added - "next list" to act as a find each list seperator
+## Source  https://github.com/Sekhan/TheGreatWall
+## Title : TheGreatWall
+## Prevent program and malware to bypass DNS filter by using popular DoH services
+## To block DNS over TLS (DoT), block port 853
+## This list has been created for security purpose ONLY
+## To be more efficient, you should also consider blocking DoH providers IP adresses
+## Last update : 15 June 2020
+## Domain count : 132
+===================================================================
+# Aaflalo
+dns.aaflalo.me
+dns-nyc.aaflalo.me
+# AdGuard
+dns.adguard.com
+dns-family.adguard.com
+# Alekberg
+dns.alekberg.net
+dns2.alekberg.net
+dnsse.alekberg.net
+# AliDNS
+dns.alidns.com
+# Andrews & Arnold
+dns.aa.net.uk
+# Association 42l
+doh.42l.fr
+# AT&T
+dohtrial.att.net
+# BlahDNS
+doh-fi.blahdns.com
+doh-jp.blahdns.com
+doh-de.blahdns.com
+doh-sg.blahdns.com
+# Brahma World
+dns.brahma.world
+# Canadian Shield
+private.canadianshield.cira.ca
+protected.canadianshield.cira.ca
+family.canadianshield.cira.ca
+# Captnemo
+doh.captnemo.in
+# Cisco
+doh.opendns.com
+doh.familyshield.opendns.com
+# Clean Browsing
+family-filter-dns.cleanbrowsing.org
+adult-filter-dns.cleanbrowsing.org
+security-filter-dns.cleanbrowsing.org
+doh.cleanbrowsing.org
+# Cloudflare
+one.one.one.one
+mozilla.cloudflare-dns.com
+1dot1dot1dot1.cloudflare-dns.com
+cloudflare-dns.com
+dns64.cloudflare-dns.com
+security.cloudflare-dns.com
+family.cloudflare-dns.com
+# Comcast
+doh.xfinity.com
+# Comodo
+ns1.recursive.dnsbycomodo.com
+ns2.recursive.dnsbycomodo.com
+# Commons-host
+commons.host
+# ContainerPI
+dns.containerpi.com
+# Cox
+dohdot.coxlab.net
+# Crypto.sx
+doh.crypto.sx
+doh-ipv6.crypto.sx
+# Digitale Gesellschaft
+dns.digitale-gesellschaft.ch
+# Doh.li
+doh.li
+# DNScrypt (DoH)
+dns1.dnscrypt.ca
+dns2.dnscrypt.ca
+# DNSforge
+dnsforge.de
+# DNS home
+dns.dnshome.de
+# DNS lify
+doh.dnslify.com
+a.ns.dnslify.com
+b.ns.dnslify.com
+a.safe.ns.dnslify.com
+b.safe.ns.dnslify.com
+a.family.ns.dnslify.com
+b.family.ns.dnslify.com
+# DNS Seby
+doh.seby.io
+doh-2.seby.io
+# DNS.SB
+doh.dns.sb
+# Dyn
+resolver1.dyndnsinternetguide.com
+resolver2.dyndnsinternetguide.com
+# FFmuc
+doh.ffmuc.net
+# Foundation for Applied Privacy
+doh.applied-privacy.net
+# GeekDNS
+dns.233py.com
+i.233py.com
+wdns.233py.com
+ndns.233py.com
+sdns.233py.com
+# Google
+dns.google
+google-public-dns-a.google.com
+google-public-dns-b.google.com
+dns64.dns.google
+# Hostux
+dns.hostux.net
+# Ibuki
+ibuki.cgnat.net
+# Ibksturm
+ibksturm.synology.me
+# Jcdns
+jcdns.fun
+# Lelux
+resolver-eu.lelux.fi
+# LibreDNS
+doh.libredns.gr
+# Mrkaran
+dns.mrkaran.dev
+# NekomimiRouter
+dns.dns-over-https.com
+# NextDNS
+dns.nextdns.io
+# NixNet
+uncensored.any.dns.nixnet.xyz
+adblock.any.dns.nixnet.xyz
+uncensored.lv1.dns.nixnet.xyz
+adblock.lv1.dns.nixnet.xyz
+uncensored.ny1.dns.nixnet.xyz
+adblock.ny1.dns.nixnet.xyz
+uncensored.lux1.dns.nixnet.xyz
+adblock.lux1.dns.nixnet.xyz
+# OpenDNS
+resolver1.opendns.com
+resolver2.opendns.com
+resolver1-fs.opendns.com
+resolver2-fs.opendns.com
+resolver1.ipv6-sandbox.opendns.com
+resolver2.ipv6-sandbox.opendns.com
+# OSZX (PumpleX)
+dns.oszx.co
+dns.pumplex.com
+# Pi-DNS
+doh.centraleu.pi-dns.com
+doh.northeu.pi-dns.com
+doh.westus.pi-dns.com
+doh.eastus.pi-dns.com
+# PowerDNS
+doh.powerdns.org
+# Quad9
+dns.quad9.net
+dns9.quad9.net
+dns10.quad9.net
+dns11.quad9.net
+rpz-public-resolver1.rrdns.pch.net
+dns-nosec.quad9.net
+# Quad101
+dns.twnic.tw
+# Rubyfish
+v6.rubyfish.cn
+dns.rubyfish.cn
+ea-dns.rubyfish.cn
+uw-dns.rubyfish.cn
+# Secure DNS
+doh.securedns.eu
+ads-doh.securedns.eu
+# Snopyta
+fi.doh.dns.snopyta.org
+# Switch
+dns.switch.ch
+# Tiarap
+doh.tiar.app
+doh.tiarap.org
+jp.tiar.app
+jp.tiarap.org
+# t53
+dns.t53.de
+# Xfinity (Comcast)
+# Others
+dns.dnsoverhttps.net
+doh.dnswarden.com
+doh.appliedprivacy.net
+public.dns.iij.jp
+jp.gridns.xyz
+dns.flatuslifir.is
+odvr.nic.cz
+rumpelsepp.org
+ordns.he.net
+rdns.faelix.net
+adfree.usableprivacy.net
+### next list
+### Source https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
+# Blocked domains (and their subdomains) when enabling Parental Control -> Block Bypass Methods.
+# Apple Private Relay (https://developer.apple.com/support/prepare-your-network-for-icloud-private-relay)
+mask.icloud.com
+mask-h2.icloud.com
+# Encrypted DNS
+8888.google
+adblock.mydns.network
+canadianshield.cira.ca
+chrome.cloudflare-dns.com
+cloudflare-gateway.com
+dns-gcp.aaflalo.me
+dns-unfiltered.adguard.com
+dnsnl.alekberg.net
+dns.233py.com.cdn.cloudflare.net
+dns.bitgeek.in
+dns.cloudflare.com
+dns.cmrg.net
+dns.containerpi.co
+dns.developer.li
+dns.google.com
+dns.keweon.center
+dns.larsdebruin.net
+dns.neutopia.org
+dns.nixnet.xyz
+dns.sb
+dns1.digitale-gesellschaft.ch
+dns2.developer.li
+dns2.digitale-gesellschaft.ch
+dnsotls.lab.nic.cl
+dnsovertls.sinodun.com
+dnsovertls1.sinodun.com
+dnsovertls2.sinodun.com
+dnsovertls3.sinodun.com
+doh-01.spectrum.com
+doh-02.spectrum.com
+doh-ch.blahdns.com
+doh.233py.com
+doh.armadillodns.net
+doh.asecdns.com
+doh.blahdns.com
+doh.cox.net
+doh.defaultroutes.de
+doh.dns.apple.com
+doh.gslb2.xfinity.com
+doh.libredns.org
+doh.netweaver.uk
+doh.westeu.pi-dns.com
+dot-de.blahdns.com
+dot-jp.blahdns.com
+dot.asecdns.com
+dot.cox.net
+dot.quickline.ch
+dot.xfinity.com
+dot1.appliedprivacy.net
+edns.233py.com
+example.doh.blockerdns.com
+getdnsapi.net
+i.233py.com.a.bdydns.com
+iana.tenta.io
+kaitain.restena.lu
+lux1.nixnet.xyz
+lv1.nixnet.xyz
+ns1.dnsprivacy.at
+ns2.dnsprivacy.at
+ny1.nixnet.xyz
+opencdn.jomodns.com
+opennic.tenta.io
+privacydns.go6lab.si
+public-dns-a.dns.sb
+public-dns-b.dns.sb
+sg.gridns.xyz
+tls-dns-u.odvr.dns-oarc.net
+unicast.censurfridns.dk
+unicast.uncensoreddns.org
+# Web proxies
+012proxy.ga
+123-24.eport.gr
+1freeproxy.pw
+24tunnel.com
+2fastsurfer.com
+3x.nz
+4everproxy.com
+99proxy.com
+aceproxy.com
+allunblocked.com
+americaproxy.info
+aniscartujo.com
+anonymize.com
+anonymizer.com
+anonymouse.org
+atoproxy.com
+atozproxy.com
+avoidance.info
+awebproxy.com
+blewpass.com
+bogbone.com
+boomproxy.com
+brazilproxy.info
+bumblebee.site
+bypasser.us
+canadaproxy.info
+cantblockthis.org
+caproxies.info
+christophbrem.com
+crazyproxy.org
+croxyproxy.com
+croxyproxy.rocks
+defilter.us
+dolopo.net
+dontfilter.us
+doyouremember.love
+dzhot.us
+ecxs.asia
+englandproxy.co.uk
+evyy.net
+f4fp.com
+fasttime.info
+fastusaproxy.com
+fbproxies.info
+fiberprox.me
+fiberproxy.fr
+fiberproxy.net
+filterbypass.me
+firstcontact.site
+fishproxy.com
+fixproxy.com
+franceproxy.pw
+free-proxy.com
+free-proxy.cz
+free-proxyserver.com
+freedom.cx
+freeeuroproxy.com
+freeopenproxy.com
+freeproxy.asia
+freeproxy.me
+freeproxy.win
+freeproxyserver.co
+freexite.com
+freeyouproxytube.com
+freeyoutube.net
+genmirror.com
+german-proxy.info
+gizlibaglanti.com
+goproxy.asia
+greatestfreeproxy.com
+guardster.com
+helloworld.cx
+hiddendigital.info
+hiddendragon.site
+hide.me
+hidefrom.com
+hidemebro.com
+hidemenow.net
+hidemy.name
+hidemyass.com
+hidenseek.org
+hidetheinternet.com
+hidingyour.info
+hiload.in
+homeproxy.com
+hyperbyte.net
+idolproxy.com
+interncloud.info
+ispunblock.com
+justproxy.co.uk
+kproxy.com
+kproxysite.com
+leo.paulmihaipavel.com
+linkmetube.com
+lookingglass.site
+lopana.com
+maddw.com
+megaproxy.com
+mehide.asia
+metproxy.com
+miniprox.com
+miniprox.info
+my-proxy.com
+mycelium.site
+myproxy.info
+myunblocksites.com
+newipnow.com
+ninjabrowse.com
+ninjacloak.com
+ninjaproxy.eu
+ninjaweb.xyz
+orangeproxy.net
+pandashield.com
+pinkproxy.xyz
+pkproxy.info
+polaris.cx
+pollproxy.info
+pro-unblock.com
+prointern.info
+protonvpn.com
+proxay.co.uk
+proxfree.com
+proxify.com
+proximize.me
+proxite.eu
+proxite.info
+proxmecallmenames.com
+proxtube.com
+proxy-2014.com
+proxy-2015.info
+proxy-anywhere.com
+proxy-deal.net
+proxy-hypo.net
+proxy-internet.info
+proxy-youtube.com
+proxy.eti.pw
+proxy.ordentlichbreit.de
+proxy.org
+proxy.toolur.com
+proxy2014.net
+proxy4freedom.com
+proxy7.club
+proxybrowse.info
+proxybrowsing.com
+proxycloud.net
+proxyfish.com
+proxyfor.eu
+proxygogo.info
+proxyhub.in
+proxyisp.com
+proxylistpro.com
+proxyload.net
+proxymesh.com
+proxyof.com
+proxyone.net
+proxypirates.com
+proxypx.com
+proxys.pw
+proxyserverfree.net
+proxysite.cloud
+proxysite.club
+proxysite.com
+proxysite.fr
+proxysite.io
+proxysite.one
+proxysite.top
+proxysite.video
+proxythis.info
+proxyturbo.com
+proxyunblock.club
+proxyunblock.site
+proxyunblocker.org
+quickprox.com
+quickproxy.co.uk
+rabbithole.site
+rapidproxy.us
+ronfeed.com
+rsocks.net
+saoudiproxy.info
+secretproxy.org
+seeproxy.me
+serverfriend.altervista.org
+singaporeproxy.nu
+site2unblock.com
+sitenable.in
+spanproxy.com
+spedo.co
+speedproxy.online
+sporium.org
+spysurfing.com
+sslpro.eu
+sslpro.org
+sslsecureproxy.com
+stargate.one
+starrynight.site
+stealthy.co
+stopcensoring.me
+suedeproxy.info
+surf-for-free.com
+surfly.com
+surfmenow.com
+surfproxyserver.com
+theclickcheck.com
+tiafun.com
+tomatoproxy.eu
+touchvpn.net
+tubeunblock.me
+tubeunblock.net
+turbohide.org
+ultimateproxy.net
+ultrafun.net
+unblock-sites.com
+unblock-video.com
+unblock-websites.com
+unblock123.com
+unblockaccess.com
+unblockandsurf.com
+unblockblocked.net
+unblockbook.biz
+unblocked.me
+unblocker.us
+unblockfreeproxy.com
+unblockit.one
+unblockmyweb.com
+unblockproxy.me
+unblockvideos.com
+unblockweb.co
+unblockwebsite.online
+unblockwebsites.us
+unblockyouku.com
+unblockyoutube.video
+unblockyoutubeatschool.com
+unblockyoutubefree.net
+unblockytproxy.com
+undofilters.com
+us-proxy.org
+usafastproxy.info
+usproxies.info
+usproxy.nu
+vectroproxy.com
+videounblock.com
+videounblocker.net
+vidproxy.com
+viewyoutube.net
+vload.net
+vobas.com
+vpnbrowse.com
+weboproxy.com
+webproxy.best
+webproxy.to
+webproxyfree.net
+websurf.in
+websurfproxy.me
+webunblocker.xyz
+whoisping.com
+wonderland.ws
+workhost.eu
+wossow.com
+xitenow.com
+xitesite.com
+yellowproxy.net
+yourcheat.com
+youtubebyclick.com
+youtubefreeproxy.net
+youtubeunblocked.live
+youtubez.com
+yxorproxy.com
+zacebookpk.com
+zalmos.com
+zend2.com
+zendproxy.com
+# Web proxies listings
+2ub.top
+anonymizer.nntime.com
+free-proxy-list.net
+getproxi.es
+new-proxy-sites.blogspot.com
+proxy-site.net
+proxynova.com
+proxypremium.top
+proxyscrape.com
+proxyserver.com
+proxyserverlist24.top
+pxaa.com
+socks-proxy.net
+sslproxies.org
+stupidproxy.com
+vpnme.me
+# VPNs
+12vpx.com
+acevpn.com
+adguard-vpn.com
+adguard.io
+airvpn.org
+anonine.com
+anonvpn.io
+anonymousvpn.org
+anonymster.com
+astrill.com
+atlasvpn.com
+avira-vpn.com
+azirevpn.com
+beevpn.com
+betternet.co
+blackvpn.com
+blocka.net
+blockless.com
+bolehvpn.net
+borderlessvpn.io
+boxpn.com
+brovpn.io
+btguard.com
+buffered.com
+cactusvpn.com
+celo.net
+chillglobal.com
+citizenvpn.com
+clearvpn.com
+cloakvpn.com
+crypticvpn.com
+cryptohippie.com
+cryptostorm.is
+cyberghostvpn.com
+defencevpn.com
+dotvpn.com
+doublehop.me
+earthvpn.com
+encrypt.me
+expressvpn.com
+faceless.me
+fastestvpn.com
+finchvpn.com
+flowvpn.com
+flyvpn.com
+freevpn.me
+freevpn.org
+freevpn.zone
+freevpn4you.net
+freevpnsoftware.net
+get-express-vpn.com
+getfoxyproxy.org
+guardianapp.com
+guardianvpn.net
+guardian-vpn.com
+hidebuzz.us
+hideipvpn.com
+hidemyass.co.uk
+hidester.com
+hola.org
+hotbot.com
+hotspotshield.com
+hoxx.com
+idcloak.com
+ininja.org
+ipvanish.com
+itopvpn.com
+ivacy.com
+ivpn.net
+le-vpn.com
+limevpn.com
+mullvad.net
+myprivateproxy.net
+nordvpn.com
+nvpn.net
+openvpn.net
+opera-proxy.net
+overplay.net
+ovpn.com
+privadovpn.com
+privateinternetaccess.com
+privatevpn.com
+protonstatus.com
+protonvpn.ch
+proxy.lol
+proxy.sh
+proxyfactory.io
+purevpn.com
+pushvpn.com
+radmin-vpn.com
+radmin-vpn.org
+rusvpn.com
+safeguardianvpn.com
+safervpn.com
+sec-tunnel.com
+secure.proxpn.com
+setupvpn.com
+smartdnsproxy.com
+spacevpn.io
+securevpn.io
+spidervpn.org
+strongvpn.com
+surfeasy.com
+surfshark.com
+surfshell.io
+swoshsvpn.com
+torguard.net
+travelvpn.info
+travelvpn.net
+trickbyte.com
+tunnelbear.com
+turbovpn.com
+tuxlervpn.com
+ufovpn.io
+utunnel.io
+ultravpn.com
+urban-vpn.com
+uvpn.me
+veripn.com
+vpn-byen.dk
+vpn.appsverse.com
+vpn.ac
+vpn.asia
+vpn.mozilla.org
+vpn.ncapi.io
+vpn.net
+vpnbook.com
+vpngate.net
+vpnlite.net
+vpnunlimitedapp.com
+vyprvpn.com
+virtualshield.com
+whoer.net
+windscribe.com
+wlvpn.com
+xvpn.io
+zoogvpn.com
+zorrovpn.io
+zpn.im
+geckovpn.xyz
+supervpn.best
+# VPN listings
+bestvpnrating.com
+downloadvpnfree.com
+instantunblock.com
+pixelprivacy.com
+thebestvpn.com
+top10vpn.com
+topvpnguides.com
+vpnfan.com
+vpngorilla.com
+vpnmentor.com
+vpnoverview.com
+# Web browsers with built-in VPN or proxy
+epicbrowser.com
+opera.com
+tenta.com
+tor.bravesoftware.com
+ur-browser.com
+# Tor
+darknet.to
+onion.cab
+onion.city
+onion.direct
+onion.dog
+onion.ly
+onion.pet
+onion.sh
+onion.to
+onion.ws
+torproject.org
+geti2p.net
+# Privacy-oriented linux distros for anonymous browsing
+dee.su
+digi77.com
+ipredia.org
+mofolinux.com
+parrotsec.org
+polippix.org
+privacy-cd.org
+tails.boum.org
+whonix.org
+### next list
+### Source https://raw.githubusercontent.com/crypt0rr/public-doh-servers/main/dns.list
+adblock.doh.mullvad.net
+adblock-dot.dnswarden.com
+adult-filter-dot.dnswarden.com
+anycast.censurfridns.dk
+anycast.uncensoreddns.org
+asia.dnscepat.id
+basic.bravedns.com
+bravedns.com
+deic-lgb.anycast.censurfridns.dk
+deic-lgb.anycast.uncensoreddns.org
+deic-ore.anycast.censurfridns.dk
+deic-ore.anycast.uncensoreddns.org
+dns1.nextdns.io
+dns2.nextdns.io
+dns.arapurayil.com
+dns-asia.wugui.zone
+dns.cfiec.net
+dns.comss.one
+dns.decloudus.com
+dns-doh.dnsforfamily.com
+dns-dot.dnsforfamily.com
+dns.east.comss.one
+dnses.alekberg.net
+dns.pub
+dns-tls.bitwiseshift.net
+dns.wugui.zone
+doh1.b-cdn.net
+doh1.blahdns.com
+doh2.abmb.win
+doh2.b-cdn.net
+doh2.blahdns.com
+doh.360.cn
+doh.abmb.win
+doh.au.ahadns.net
+doh.blockerdns.com
+doh.chi.ahadns.net
+doh.eastas.pi-dns.com
+doh.eastau.pi-dns.com
+doh.es.ahadns.net
+doh.in.ahadns.net
+doh.it.ahadns.net
+doh.la.ahadns.net
+doh.mullvad.net
+doh.nl.ahadns.net
+doh.no.ahadns.net
+doh.ny.ahadns.net
+doh.pi-dns.com
+doh.pl.ahadns.net
+doh.pub
+doh.sandbox.opendns.com
+dot.360.cn
+dot.centraleu.pi-dns.com
+dot.eastas.pi-dns.com
+dot.eastau.pi-dns.com
+dot.eastus.pi-dns.com
+dot.ffmuc.net
+dot.libredns.gr.com
+dot.northeu.pi-dns.com
+dot.pub
+dot.seby.io
+dot.securedns.eu
+dot.tiar.app
+dot.westus.pi-dns.com
+ecs-doh.dnswarden.com
+eropa.dnscepat.id
+eu1.dns.lavate.ch
+fdns1.dismail.de
+fdns2.dismail.de
+fi.dot.dns.snopyta.org
+firefox.dns.nextdns.io
+free.bravedns.com
+freedns.controld.com
+jarjar.meganerd.nl
+jit.ddns.net
+kracon.anycast.censurfridns.dk
+kracon.anycast.uncensoreddns.org
+p0.freedns.controld.com
+p1.freedns.controld.com
+p2.freedns.controld.com
+p3.freedns.controld.com
+pdns.faelix.net
+rgnet-iad.anycast.censurfridns.dk
+rgnet-iad.anycast.uncensoreddns.org
+steering.nextdns.io
+uncensored-dot.dnswarden.com
+us1.dns.lavate.ch
+2.dnscrypt-cert.dns.seby.io

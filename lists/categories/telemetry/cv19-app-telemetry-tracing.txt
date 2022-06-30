@@ -1,0 +1,7 @@
+www.esr.cri.nz
+covid19.loc.nz
+tracing.covid19.govt.nz
+locations.covid19.health.nz
+api.integration.covid19.health.nz
+api.tracing.covid19.govt.nz
+api.ctc.min.health.nz

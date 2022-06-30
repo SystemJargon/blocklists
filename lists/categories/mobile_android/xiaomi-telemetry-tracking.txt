@@ -1,0 +1,49 @@
+account.xiaomi.com
+api.account.xiaomi.com
+api.ad.intl.xiaomi.com
+api.brs.intl.miui.com
+api.g.micloud.xiaomi.net
+api.io.mi.com
+api.newsfeed.intl.miui.com
+api2.mina.mi.com
+app.chat.global.xiaomi.net
+app.chat.xiaomi.net
+appauth.account.xiaomi.com
+awsde0-cdn.fds.api.xiaomi.com
+browser.intl.miui.com
+cdn.alsgp0.fds.api.mi-img.com
+cdn.awsde0.fds.api.mi-img.com
+cdn.cnbj0.fds.api.mi-img.com
+cdn.cnbj1.fds.api.mi-img.com
+data.mistat.intl.xiaomi.com
+de.api.io.mi.com
+de.home.mi.com
+fga0.market.xiaomi.com
+file.static.xiaomi.net
+fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
+fr.app.chat.global.xiaomi.net
+g.galleryapi.micloud.xiaomi.net
+global.market.xiaomi.com
+home.mi.com
+i.mi.com
+metok-ccc.intl.xiaomi.com
+miot-spec.org
+privacy.mi.com
+resolver.msg.global.xiaomi.net
+sa.api.intl.miui.com
+sdkconfig.ad.intl.xiaomi.com
+ssl-cdn.static.browser.mi-img.com
+sts.api.io.mi.com
+t1.market.xiaomi.com
+tracking.intl.miui.com
+update.intl.miui.com
+us.api.micloud.xiaomi.net
+www.miui.com
+
+#Third-party:
+dw-col-only-ack.ksord.com #MIUI connections to Kingsoft
+dw-online.ksosoft.com #MIUI connections to Kingsoft
+dyn.ksord.com #MIUI connections to Kingsoft
+shuc-android.ksord.com #MIUI connections to Kingsoft

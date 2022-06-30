@@ -1,0 +1,151 @@
+#unnecessary connections made by Huawei Health
+connectivitycheck.platform.hicloud.com
+achievement-dre.things.hicloud.com
+api.cloud.hicloud.com
+configserver-dre.platform.hicloud.com
+dnkeeper.hicloud.com
+grs.dbankcloud.asia
+grs.dbankcloud.cn
+grs.dbankcloud.com
+grs.dbankcloud.eu
+hag-dre.ai.hicloud.com
+healthactivity-dre.things.hicloud.com
+healthdeviceagent-dre.things.hicloud.com
+hwid-dre.platform.hicloud.com
+hwid.platform.hicloud.com
+pushtrs7.push.hicloud.com
+sns7.hicloud.com
+sportsuggest-dre.things.hicloud.com
+upfile7.hicloud.com
+#potentially whitelisted comment with #
+#necessary for sync to work
+sportdata-dre.things.hicloud.com 
+#potentially whitelisted comment with #
+#used to update connected devices' firmware. 
+update-dre.platform.hicloud.com 
+## more
+achievement-dre.things.hicloud.com
+adxcreative-dre.dbankcdn.com
+amppic-dre.dbankcdn.com
+api-sg.c.huawei.com
+api.cloud.hicloud.com
+api.cloud.huawei.com
+appdl1.dbankcdn.com
+appdl2.dbankcdn.com
+appdl3.dbankcdn.com
+appdl-2-drcn.dbankcdn.com
+appdl-2-dre.dbankcdn.com
+appdl-4-drcn.dbankcdn.com
+appdl-4-dre.dbankcdn.com
+appdl-11-drcn.dbankcdn.com
+appdl-11-dre.dbankcdn.com
+appdl-12-drcn.dbankcdn.com
+appdl-12-dre.dbankcdn.com
+appdl-13-drcn.dbankcdn.com
+appdl-13-dre.dbankcdn.com
+appdl-dre.dbankcdn.com
+appdl.dbankcdn.com
+appdlc-dre.hispace.hicloud.com
+appgallery.cloud.huawei.com
+appimg1.dbankcdn.com
+appimg2.dbankcdn.com
+appimg3.dbankcdn.com
+appimg.dbankcdn.com
+appoptimize-dre.dbankcdn.com
+auth.ff.avast.com #appcheck
+ccpce-de.consumer.huawei.com
+ccpce-sg.consumer.huawei.com
+celia-sg.consumer.huawei.com
+cloudres-dra.dbankcdn.com
+configdownload-dre.dbankcdn.com
+configserver-dra.platform.hicloud.com
+configserver-dre.platform.hicloud.com
+configserver.platform.hicloud.com
+consumer-img.huawei.com
+consumer-res.huawei.com
+consumer-tkbdownload.huawei.com
+consumer.huawei.com
+coupon-dre.iap.hicloud.com
+dbankcdn.com
+dbankcloud.asia
+dbankcloud.cn
+dbankcloud.com
+dbankcloud.eu
+dnkeeper.hicloud.com
+drmkit-dre.himovie.dbankcloud.com
+dsa-sslv6.hispace.hicloud.com.edgekey.net
+events-dre.op.hicloud.com
+grs.dbankcloud.asia
+grs.dbankcloud.cn
+grs.dbankcloud.com
+grs.dbankcloud.eu
+grs.hicloud.com
+grs.huawei.com
+grs.hwcdn.net
+h5hosting.dbankcdn.com
+hag-dre.ai.hicloud.com
+healthactivity-dre.things.hicloud.com
+healthdeviceagent-dre.things.hicloud.com
+hicloud.com
+huawei.com
+hwcdn.net
+hwid-dre.platform.hicloud.com
+hwid.platform.hicloud.com
+id0.cloud.huawei.com
+id1.cloud.huawei.com
+id2.cloud.huawei.com
+id3.cloud.huawei.com
+id4.cloud.huawei.com
+id5.cloud.huawei.com
+id6.cloud.huawei.com
+id7.cloud.huawei.com
+id8.cloud.huawei.com
+id9.cloud.huawei.com
+id10.cloud.huawei.com
+id.cloud.huawei.com
+josres-dre.dbankcdn.com
+jxs1.jos.hicloud.com
+jxs2.jos.hicloud.com
+jxs3.jos.hicloud.com
+jxs.jos.hicloud.com
+logbak.hicloud.com
+map-dre.platform.hicloud.com
+maptile-dre.dbankcdn.com
+metrics2.data.hicloud.com
+metrics3.data.hicloud.com
+metrics.data.hicloud.com
+nsp-sporthealth-oper-dre.obs.eu-de.otc.t-systems.com
+ntp.sjtu.edu.cn
+oauth-login-dre.platform.dbankcloud.com
+pay7.hicloud.com
+pkginstaller-ovs.hispace.hicloud.com
+pushtrs7.push.hicloud.com
+query.hicloud.com
+r-beta.huaweistatic.com
+rms-dre.platform.dbankcloud.com
+sdkserver-dre.op.hicloud.com
+sdkserver-dre.op.hicloud.com.edgekey.net
+sg.nebula-collector.huawei.com
+shepherd.sb.avast.com #appcheck
+sns7.hicloud.com
+sportsuggest-dre.things.hicloud.com
+store1.hispace.hicloud.com
+store2.hispace.hicloud.com
+store3.hispace.hicloud.com
+store4.hispace.hicloud.com
+store.hispace.hicloud.com
+update.dbankcdn.com
+update.hicloud.com
+upfile7.hicloud.com
+#third-party
+aiclean.eu.cloud.360safe.com #accessed upon initial device configuration
+app-measurement.com #accessed periodically by the device
+appleid.cdn-apple.com #accessed upon opening Huawei AppGallery
+aps.amap.com #maps
+auth.ff.avast.com #appcheck
+cgicol.amap.com #maps
+hw.restlbs.map.wechatos.net #maps
+jenson.api.swiftkey.com #used by build-in SwiftKey
+lcs.loginfra.com #accessed upon opening Huawei AppGallery
+qgepodownload.mediatek.com #maps, gps?
+oneclient.sfx.ms

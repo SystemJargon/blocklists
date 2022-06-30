@@ -1,0 +1,25 @@
+# This blocklist blocks Windows Updates 
+# This is a known host list. Some additional hosts from Microsoft may or may not exist for Windows Update.
+# Best efforts to date, compiled as of May 2022.
+adl.windows.com
+aria.microsoft.com
+checkappexec.microsoft.com
+ctldl.windowsupdate.com
+delivery.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+emdl.ws.microsoft.com
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+microsoftupdate.com
+msftspeechmodelsprod.azureedge.net
+prod.do.dsp.mp.microsoft.com
+settings-win.data.microsoft.com
+sls.update.microsoft.com
+sls.update.microsoft.com.akadns.net 
+tsfe.trafficshaping.dsp.mp.microsoft.com
+update.microsoft.com
+us-v20.events.data.microsoft.com
+v10.events.data.microsoft.com
+watson.telemetry.microsoft.com
+windowsupdate.com
+windowsupdate.microsoft.com
+windowsupdates.com

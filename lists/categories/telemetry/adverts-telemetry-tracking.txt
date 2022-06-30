@@ -1,0 +1,90 @@
+#tracking analytics telemetry
+locus.analytics.cloud.com
+#suggestqueries.google.com
+analytics.plex.tv
+matheranalytics.com
+doubleclick.net
+#observed-shit-block
+www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+g99gle.com
+branch.io
+doubleclick.net
+mixpanel.com
+moatads.com
+mopub.com
+ndmdhs.com
+slotjointfreespins.com
+supersonicads.com
+tosuicunea.com
+vewd.com
+luckynow.me
+byteoversea.com
+perfectcorp.com
+bitsngo.net
+freeaddon.com
+bamgrid.com
+innotechworld.com
+appodealx.com
+searchpowerads.com
+searchpowerplus.com
+onclickbright.com
+matheranalytics.com
+teamviewer.com
+near.by
+sentry.io
+footprints-pa.googleapis.com
+fir-auth-gms.firebaseapp.com
+client-telemetry.roblox.com
+app.adjust.world
+app.adjust.net.in
+app.adjust.com
+#adobe
+adobe.com
+genuine.adobe.com
+adobegenuine.com
+prod.adobegenuine.com
+armmf.adobe.com
+#google location
+userlocation.googleapis.com
+people-pa.googleapis.com
+## MORE SHIT
+# imrworldwide ads or cdn unsure caution
+secure-dcr.imrworldwide.com
+# samsung phone home 3am
+fota-cloud-dn.ospserver.net
+# spotify sharing config wtf MAYBE FALSE POSITIVE
+#sharing-config.spotifycdn.com
+# app measurement or api not needed maybe
+api2.branch.io
+app-measurement.com 
+# other google shit and firebase for apps
+crashlyticsreports-pa.googleapis.com
+googleads.g.doubleclick.net
+firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
+firebaseinstallations.googleapis.com
+ssl.google-analytics.com
+www.googleadservices.com
+userlocation.googleapis.com
+quake-pa.googleapis.com
+geller-pa.googleapis.com
+people-pa.googleapis.com
+# ads supersonic
+outcome-ssp.supersonicads.com
+outcome-ssp.supersonicads.com 
+pm-gateway.supersonicads.com 
+# hicloud phone home huawei fkoff
+servicesupport.hicloud.co
+connectivitycheck.platform.hicloud.com
+# dodgby bank cloud china
+grs.dbankcloud.cn
+# app shit
+a.applvn.com
+# swift key telemetry
+telemetry.api.swiftkey.com
+#mcaffee mobile cleaning up or telemetry - no thanks
+mvconf.cloud.360safe.com
+mclean.cloud.360safe.com
+# further shit observed out of browsing DB fake download and scam executables possible
+# not verified
+fn.gg

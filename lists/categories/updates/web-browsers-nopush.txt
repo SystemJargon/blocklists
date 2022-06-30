@@ -1,0 +1,11 @@
+firefox.settings.services.mozilla.com
+autopush.prod.mozaws.net
+incoming.telemetry.mozilla.org
+prod.detectportal.prod.cloudops.mozgcp.net
+detectportal.prod.mozaws.net
+push.services.mozilla.com
+detectportal.firefox.com
+location.services.mozilla.com
+rewards.brave.com
+grant.rewards.brave.com
+improving.duckduckgo.com

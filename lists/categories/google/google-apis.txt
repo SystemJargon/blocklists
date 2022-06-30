@@ -1,0 +1,28 @@
+# include regex and text of the domain, then know of subdomains
+# (\.|^)googleapis\.com$ # regex entry
+googleapis.com
+playatoms-pa.googleapis.com
+quake-pa.googleapis.com
+userlocation.googleapis.com
+geomobileservices-pa.googleapis.com
+footprints.googleapis.com
+playtoms-pa.googleapis.com
+growth-pa.googleapis.com
+crashlyticsreports-pa.googleapis.com
+firebaseinappmessaging.googleapis.com
+www.googleapis.com
+mdh-pa.googleapis.com
+footprints-pa.googleapis.com
+lamssettings-pa.googleapis.com
+digitalassetlinks.googleapis.com
+notifications-pa.googleapis.com
+semanticlocation-pa.googleapis.com
+clientservices.googleapis.com
+androidpay-users-pa.googleapis.com
+chromesyncpasswords-pa.googleapis.com
+nearbydevices-pa.googleapis.com
+regioninfo-pa.googleapis.com
+embeddedassistant.googleapis.com
+footprints-pa.googleapis.com
+geomobileservices-pa.googleapis.com
+firebaseremoteconfig.googleapis.com

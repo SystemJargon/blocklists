@@ -1,0 +1,9 @@
+gmail.com
+mail.google.com
+www.gmail.com
+smtp.gmail.com
+imap.gmail.com
+pop.gmail.com
+pop3.gmail.com
+inbox.google.com
+mailer.google.com
