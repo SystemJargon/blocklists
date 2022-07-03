@@ -8,7 +8,7 @@ Links to my [Pi-hole](https://github.com/SystemJargon/pi-hole) and/or [AdGuardHo
 
 [Subdomains and Regex and formats](https://github.com/SystemJargon/blocklists/blob/main/subdomains-regex-formats.md)
 
-[List Dump] (https://github.com/SystemJargon/blocklists/blob/main/list-dump.txt)
+[List Dump](https://github.com/SystemJargon/blocklists/blob/main/list-dump.txt)
 
 ----
 
