@@ -1,0 +1,1 @@
+Any lists in threats will be compiled and aggregated into [aggregated-threats-1.txt](https://github.com/SystemJargon/blocklists/blob/main/lists/threats/aggregated-threats-1.txt)
