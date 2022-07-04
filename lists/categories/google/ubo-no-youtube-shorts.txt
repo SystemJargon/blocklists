@@ -1,0 +1,1 @@
+www.youtube.com##ytd-grid-video-renderer:has(a[href^="/shorts/"])
