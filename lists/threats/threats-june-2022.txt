@@ -140,3 +140,14 @@ cdn.discordapp.com/attachments/933024359981932666/935065418803056680/Lkrbylqxx.p
 taskmgrdev.com/e/Jymuty.png
 # Lyceum-net-dns-backdoor
 news-spot.live
+# Shadowpad Backdoor - reference https[:]//ics-cert.kaspersky.com/publications/reports/2022/06/27/attacks-on-industrial-control-systems-using-shadowpad/
+api.onedriev.tk
+storage.ondriev.tk 
+order.cargobussiness.site
+documents.kankuedu.org
+live.musicweb.xyz
+obo.videocenter.org
+tech.obj.services
+houwags.defineyourid.site
+noub.crabdance.com
+grandfoodtony.com
