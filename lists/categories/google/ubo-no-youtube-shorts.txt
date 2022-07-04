@@ -1,1 +1,4 @@
+# may or may not work
+# reference https://www.reddit.com/r/uBlockOrigin/comments/sgamhs/trying_to_block_youtube_shorts/
 www.youtube.com##ytd-grid-video-renderer:has(a[href^="/shorts/"])
+www.youtube.com##yt-icon.ytd-thumbnail-overlay-time-status-renderer.style-scope:not([hidden]):upward(6)
