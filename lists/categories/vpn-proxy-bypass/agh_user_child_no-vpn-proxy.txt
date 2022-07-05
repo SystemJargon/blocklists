@@ -1,0 +1,25 @@
+# no known vpn proxy sites - block by tag user_child
+||adguard-vpn.com^$ctag=user_child
+||nordvpn.com^$ctag=user_child
+||nordcdn.com^$ctag=user_child
+||nordsite.*^$ctag=user_child
+||cdn77.com^$ctag=user_child # part of nordvpn cdn
+||applytics.zwyr157wwiu6eior.com^$ctag=user_child # Analytics via NordVPN riskware.
+||zwyr157wwiu6eior.com^$ctag=user_child # NordVPN riskware. Many complaints online about this domain.
+||privateinternetaccess.com^$ctag=user_child
+||expressvpn.com^$ctag=user_child
+||windscribe.com^$ctag=user_child
+||surfshark.com^$ctag=user_child
+||protonvpn.com^$ctag=user_child
+||cyberghostvpn.com^$ctag=user_child
+||ipvanish.com^$ctag=user_child
+||hide.me^$ctag=user_child
+||vyprvpn.com^$ctag=user_child
+||tunnelbear.com^$ctag=user_child
+||torguard.net^$ctag=user_child
+||torproject.org^$ctag=user_child
+||ivpn.net^$ctag=user_child
+||mullvad.net^$ctag=user_child
+||sec-tunnel.com^$ctag=user_child
+||avira-vpn.com^$ctag=user_child
+||vpn.net^$ctag=user_child # VPN Hamachi by LogMeIn. Same reasons with logmein.com for being blocked.

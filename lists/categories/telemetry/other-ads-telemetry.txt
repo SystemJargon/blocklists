@@ -1,10 +1,5 @@
 #####################################################################
 ## Other-ads-telemetry 
-## Used in Pi-hole
-## Other as anything otherwise not defined.
-## Further ad's and telemetry. 
-## Things we know also make ALOT of query noise when they shouldn't.
-## Also things we definetly want to block because no-func-null-101.
 ## Comment out or not depending on your requirements.
 #####################################################################
 googleadservices.com # Google Ad Services. We NEVER trust this domain EVER because of G-tagreting adverts.
