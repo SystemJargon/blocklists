@@ -1,4 +1,4 @@
-# Aggregated and created by https://github.com/SystemJargon and Last Updated Wed 06 Jul 2022 05:21:00 PM NZST
+# Aggregated and created by https://github.com/SystemJargon and Last Updated Thu 07 Jul 2022 12:10:02 AM NZST
 0701baibao-1305586011.cos.ap-nanjing.myqcloud.com
 0x6b.0254.0113.0244
 104-168-132-128.nip.io
@@ -132,12 +132,6 @@ domainet.site
 domainet.space
 domestickum.com
 dquggwjhdmq.com
-drive.google.com
-dropboxcaptcha.com
-dropboxforum.com
-dropboxforums.com
-dropboxinsiders.com
-dropboxmail.com
 dtermalherbhos.com
 dullism.com
 edc.com.ly
@@ -166,7 +160,6 @@ fifth-efficient-wasp.glitch.me
 filltobill5.casa
 financialmarket.org
 foosq.one
-forms.office.com
 foundanalyst.site
 foundanalytic.site
 freescanonline.com
@@ -237,7 +230,6 @@ lanetester.site
 lanlocker.site
 lcomputers.com
 lianzafacture.eu
-linkalliance.projectorbit.com
 linkerange.site
 linkerange.space
 listmanager.space
@@ -301,8 +293,6 @@ offspringance.com
 olapdatabase.com
 ollaholla.cyou
 on-offtrack.biz
-onedrive.com
-onedrive.live.com
 onehitech.casa
 onetechcompany.com
 onflicitoesar.eu
@@ -334,7 +324,6 @@ pigeonious.com
 pingolag.top
 pinokio.online
 planetspeed.site
-play.google.com
 privatlab.com
 producteditor.site
 profreefiles.com
@@ -546,8 +535,7 @@ fr56cvfi.cfd
 asud28cv.cfd
 freefiles34.xyz
 freefiles33.xyz
-wrtgh56mh.cfd
-# Sometimes known to host .ico or .png or image files which are part of other payloads (usually JS) to infect a victim or browser. Either that or the site has a bad rep.
+wrtgh56mh.cfd# Sometimes known to host .ico or .png or image files which are part of other payloads (usually JS) to infect a victim or browser. Either that or the site has a bad rep.
 code-examples.net
 kotaeta.com
 answer-id.com
