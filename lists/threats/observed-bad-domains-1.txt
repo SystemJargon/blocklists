@@ -131,12 +131,6 @@ domainet.site
 domainet.space
 domestickum.com
 dquggwjhdmq.com
-drive.google.com
-dropboxcaptcha.com
-dropboxforum.com
-dropboxforums.com
-dropboxinsiders.com
-dropboxmail.com
 dtermalherbhos.com
 dullism.com
 edc.com.ly
@@ -165,7 +159,6 @@ fifth-efficient-wasp.glitch.me
 filltobill5.casa
 financialmarket.org
 foosq.one
-forms.office.com
 foundanalyst.site
 foundanalytic.site
 freescanonline.com
@@ -236,7 +229,6 @@ lanetester.site
 lanlocker.site
 lcomputers.com
 lianzafacture.eu
-linkalliance.projectorbit.com
 linkerange.site
 linkerange.space
 listmanager.space
@@ -300,8 +292,6 @@ offspringance.com
 olapdatabase.com
 ollaholla.cyou
 on-offtrack.biz
-onedrive.com
-onedrive.live.com
 onehitech.casa
 onetechcompany.com
 onflicitoesar.eu
@@ -333,7 +323,6 @@ pigeonious.com
 pingolag.top
 pinokio.online
 planetspeed.site
-play.google.com
 privatlab.com
 producteditor.site
 profreefiles.com
