@@ -1,4 +1,4 @@
-# Aggregated and created by https://github.com/SystemJargon and Last Updated Fri 08 Jul 2022 12:10:03 PM NZST
+# Aggregated and created by https://github.com/SystemJargon and Last Updated Sat 09 Jul 2022 12:10:03 AM NZST
 0701baibao-1305586011.cos.ap-nanjing.myqcloud.com
 0x6b.0254.0113.0244
 104-168-132-128.nip.io
@@ -908,3 +908,33 @@ lockbit-decryptor.top
 cyberclub.one
 # Phishing domain # Categorized by fortinet
 thesocialhire.in
+# gamaredon-primitive-bear reference unit42.paloaltonetworks.com/gamaredon-primitive-bear-ukraine-update-2021/
+jolotras.ru
+moolin.ru
+naniga.ru
+nonimak.ru
+bokuwai.ru
+krashand.ru
+gorigan.ru
+637753576301692900.jolotras.ru
+637753623005957947.jolotras.ru
+637755024217842817.jolotras.ru
+a.nonimak.ru
+aaaa.nonimak.ru
+aaaaa.nonimak.ru
+aaaaaa.nonimak.ru
+0enhzs.moolin.ru
+0ivrlzyk.moolin.ru
+0nxfri.moolin.ru
+bilargo.ru
+firtabo.ru
+firasto.ru
+myces.ru
+teroba.ru
+bacilluse.ru
+circulas.ru
+megatos.ru
+phymateus.ru
+cerambycidae.ru
+coleopteras.ru
+danainae.ru
