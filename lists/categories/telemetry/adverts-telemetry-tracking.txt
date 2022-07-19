@@ -88,3 +88,39 @@ mclean.cloud.360safe.com
 # further shit observed out of browsing DB fake download and scam executables possible
 # not verified
 fn.gg
+# nzherald.co.nz ads and tracking
+nzme-ads.co.nz
+advertising.nzme.co.nz
+insights.nzherald.co.nz
+# lefrontend.nzmelistings.co.nz	
+# nzmelistings.co.nz
+# profile.nzherald.co.nz
+## ad partners
+# www.oneroof.co.nz
+# oneroof.co.nz
+targeting.nzme.arcpublishing.com	
+arcpublishing.com
+www.images-home.com
+images-home.com
+adservice.google.co.nz
+adservice.google.com
+www.googletagservices.com
+www.googleadservices.com
+dai.google.com
+ads.youtube.com
+securepubads.g.doubleclick.net
+doubleclick.net
+# 3rd party links and app advertisers
+matheranalytics.com
+app-measurement.com
+js.matheranalytics.com
+www.i.matheranalytics.com
+app.matheranalytics.com
+www.neighbourly.co.nz
+supersonicads.com
+adcolony.com
+adcolony.xyz
+# deep chain links 
+trafficjunky.net
+as.2020mustang.com
+c2shb.ssp.yahoo.com
