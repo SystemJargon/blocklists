@@ -1,23 +1,25 @@
 nzme-ads.co.nz
-www.oneroof.co.nz
-oneroof.co.nz
+advertising.nzme.co.nz
+insights.nzherald.co.nz
+# lefrontend.nzmelistings.co.nz	
+# nzmelistings.co.nz
+# profile.nzherald.co.nz
+## ad partners
+# www.oneroof.co.nz
+# oneroof.co.nz
 targeting.nzme.arcpublishing.com	
 arcpublishing.com
-lefrontend.nzmelistings.co.nz	
-nzmelistings.co.nz
-nzme-ads.co.nz
-profile.nzherald.co.nz
 www.images-home.com
 images-home.com
-advertising.nzme.co.nz
 adservice.google.co.nz
 adservice.google.com
-www.googletagservices.com
-www.googleadservices.com
+# www.googletagservices.com # block in other list
+# www.googleadservices.com # block in other list
 dai.google.com
-ads.youtube.com
+# ads.youtube.com # block in other list
 securepubads.g.doubleclick.net
 doubleclick.net
+# 3rd party links and app advertisers
 matheranalytics.com
 app-measurement.com
 js.matheranalytics.com
@@ -27,7 +29,7 @@ www.neighbourly.co.nz
 supersonicads.com
 adcolony.com
 adcolony.xyz
+# deep chain links 
 trafficjunky.net
 as.2020mustang.com
-insights.nzherald.co.nz
 c2shb.ssp.yahoo.com
