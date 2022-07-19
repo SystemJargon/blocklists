@@ -1,4 +1,5 @@
-#tracking analytics telemetry
+### tracking analytics telemetry advertising
+### if something doesnt work then add host to whitelist.
 locus.analytics.cloud.com
 #suggestqueries.google.com
 analytics.plex.tv
@@ -8,7 +9,6 @@ doubleclick.net
 www.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
 g99gle.com
 branch.io
-doubleclick.net
 mixpanel.com
 moatads.com
 mopub.com
@@ -28,7 +28,6 @@ appodealx.com
 searchpowerads.com
 searchpowerplus.com
 onclickbright.com
-matheranalytics.com
 teamviewer.com
 near.by
 sentry.io
@@ -38,13 +37,13 @@ client-telemetry.roblox.com
 app.adjust.world
 app.adjust.net.in
 app.adjust.com
-#adobe
-adobe.com
+# adobe
+# adobe.com
 genuine.adobe.com
 adobegenuine.com
 prod.adobegenuine.com
 armmf.adobe.com
-#google location
+# google location
 userlocation.googleapis.com
 people-pa.googleapis.com
 ## MORE SHIT
@@ -65,10 +64,8 @@ firebaselogging-pa.googleapis.com
 firebaseinstallations.googleapis.com
 ssl.google-analytics.com
 www.googleadservices.com
-userlocation.googleapis.com
 quake-pa.googleapis.com
 geller-pa.googleapis.com
-people-pa.googleapis.com
 # ads supersonic
 outcome-ssp.supersonicads.com
 outcome-ssp.supersonicads.com 
@@ -82,10 +79,9 @@ grs.dbankcloud.cn
 a.applvn.com
 # swift key telemetry
 telemetry.api.swiftkey.com
-#mcaffee mobile cleaning up or telemetry - no thanks
+# mcaffee mobile cleaning up or telemetry - no thanks
 mvconf.cloud.360safe.com
 mclean.cloud.360safe.com
-# further shit observed out of browsing DB fake download and scam executables possible
 # not verified
 fn.gg
 # nzherald.co.nz ads and tracking
@@ -105,19 +101,15 @@ images-home.com
 adservice.google.co.nz
 adservice.google.com
 www.googletagservices.com
-www.googleadservices.com
 dai.google.com
 ads.youtube.com
 securepubads.g.doubleclick.net
-doubleclick.net
 # 3rd party links and app advertisers
-matheranalytics.com
 app-measurement.com
 js.matheranalytics.com
 www.i.matheranalytics.com
 app.matheranalytics.com
 www.neighbourly.co.nz
-supersonicads.com
 adcolony.com
 adcolony.xyz
 # deep chain links 
