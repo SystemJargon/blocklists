@@ -50,3 +50,8 @@ phymateus.ru
 cerambycidae.ru
 coleopteras.ru
 danainae.ru
+# misc phishing and malware 
+trk.klclick3.com
+460f.templates.victoryoverdieting.com
+fujitsu.sbs
+danske-a-kasser.com
