@@ -1,4 +1,4 @@
-# Aggregated and created by https://github.com/SystemJargon and Last Updated Mon 29 Aug 2022 12:10:02 PM NZST
+# Aggregated and created by https://github.com/SystemJargon and Last Updated Tue 30 Aug 2022 12:10:03 AM NZST
 0701baibao-1305586011.cos.ap-nanjing.myqcloud.com
 0x6b.0254.0113.0244
 104-168-132-128.nip.io
@@ -943,3 +943,39 @@ trk.klclick3.com
 460f.templates.victoryoverdieting.com
 fujitsu.sbs
 danske-a-kasser.com
+# SocGholish badsites
+track.amishbrand.com
+connect.clevelandskin.com
+track.positiverefreshment.org
+backup.awarfaregaming.com
+click.clickanalytics208.com
+link.easycounter210.com
+sodality.mandmsolicitors.com
+safeguard.couleurmutation.com
+nurse.dmvsvapekings.us
+rocket2.new10k.com
+cigars.pawscolours.com
+stuff.bonneltravel.com
+cardo.diem-co.com
+expense.brick-house.net
+paggy.parmsplace.com
+genesis.ibgenesis.org
+havana.littlehavanacigarstore.com
+cruise.updogtechnologies.com
+predator.foxscalesjewelry.com
+query.dec.works
+wallpapers.uniquechoice-co.com
+natural.cpawalmyrivera.com
+master.ilsrecruitment.com
+west.bykikarose.com
+# Grandoreiro badsites
+35.181.59.254
+35.180.117.32
+52.67.27.173
+54.232.38.61
+barusgorlerat.me
+assesorattlas.me
+atlasassessorcontabilidade.com
+vamosparaonde.com
+mantersaols.com
+premiercombate.eastus.cloudapp.azure.com
