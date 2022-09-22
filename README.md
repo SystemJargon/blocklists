@@ -6,7 +6,7 @@ Links to my [Pi-hole](https://github.com/SystemJargon/pi-hole) and/or [AdGuardHo
 
 [Compiled blocklists here](https://github.com/SystemJargon/blocklists/tree/main/lists). 
 
-[Subdomains and Regex and formats](https://github.com/SystemJargon/blocklists/blob/main/subdomains-regex-formats.md)
+[Subdomains and Regex and formats](https://github.com/SystemJargon/blocklists/blob/main/subdomains-regex-formats.md) - You may also like my [My Regex repo](https://github.com/SystemJargon/regex)
 
 [List Dump](https://github.com/SystemJargon/blocklists/blob/main/list-dump.txt)
 
