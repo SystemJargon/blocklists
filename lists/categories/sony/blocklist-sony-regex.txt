@@ -1,0 +1,12 @@
+## Blocklist for Sony with regex. To be used in the likes of AdBlockPlus, AdGuardHome and so on.
+/sony/
+/*.sony/
+/sony.*/
+/playstation/
+/sonymusic/ 
+/sonydna/
+/sonynetwork/
+/sonyentertainmentnetwork/
+/sonypro/
+/sonycsl/
+/sonygroupcorporation/
