@@ -4,6 +4,7 @@
 .cn
 .ru
 .ua
+.br
 .email
 .work
 .rest
