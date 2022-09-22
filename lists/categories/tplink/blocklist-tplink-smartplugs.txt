@@ -1,0 +1,11 @@
+# tplink smart plugs
+||tplinkcloud.com^ # block other tplink crap
+||tplinkra.com^ # block other tplink crap
+||tplinknbu.com^ block other tplink crap
+# allow?
+!@@||use1-api.tplinkra.com^
+!@@||n-aps1-wap.tplinkcloud.com^
+# not needed?
+!@@||api.tplinkra.com^
+!@@||assets.tplinkra.com^
+!/tplink/ block other tplink crap with regex # keep commented for custom rules if req.
