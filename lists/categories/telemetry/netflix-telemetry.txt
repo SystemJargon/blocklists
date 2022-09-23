@@ -10,6 +10,7 @@
 ||nmtracking.netflix.com^
 ||presentationtracking.netflix.com^
 ||appboot.netflix.com^ # found on some android tv boxs. May require allowlist on some devices if playback fails
+||*-appboot.netflix.com^ # experimental to device. May require allowlist on some devices if app open or playback fails
 ||preapp.prod.partner.netflix.net^ # partner sharing
 ||nrdp-ipv6.prod.ftl.netflix.com^ # not needed and playback works blocking this. phones home alot on devices
 # So far on most devices tested, netflix app breaks if, you block the next 3 hosts.
