@@ -1,8 +1,29 @@
 ## my added hostnames since Perflyst hasn't updated in awhile.
-
 ## my added hostnames
-## Freeview New Zealand TV channels - no talk to cloud
+## Freeview / TVNZ New Zealand TV channels - no talk to cloud
 ||switch.tv^
+||tvnz.page.link^
+## this may duplicate from sony/samsung but observed still in September 2022
+## Youtube advertising more agressive with panel research subdomains
+## samsung tv phoning home often with beacon. whitelist if your TV has connectivity issues.
+||scs.samsungqbe.com^
+||_xmpp-client._tcp.scs.samsungqbe.com^
+||sas.samsungcloudsolution.com^
+## youtube and android tv boxes
+||userpaneltv-pa.googleapis.com^
+||*-panelresearch.googlevideo.com^
+||eligibility-panelresearch.googlevideo.com^
+||deviceintegritytokens-pa.googleapis.com^
+||gmscompliance-pa.googleapis.com^
+||mtalk.google.com^device_tv # tagged so phones needing google talk don't get block
+# further smart tv testing apps and ads and telemetry, may include apps on smart tv
+||disney.api.edge.bamgrid.com^ # disneyplus app related
+||playmoviesdfe-pa.googleapis.com^  # idle homescreen phone home
+||fcm.googleapis.com^ # idle homescreen phone home
+||embeddedassistant.googleapis.com^ # ok google assistant in tv
+||mtalk.google.com^ # some people with android phones may need to allowlist this
+||*-panelresearch.googlevideo.com^ # youtube app and android tv
+## end of Sept 2022 update.
 
 ## https://github.com/Perflyst/PiHoleBlocklist/pulls as of time of writing
 ## new hosts from pull-requests in Perflyst not yet added to main
@@ -17,21 +38,16 @@
 ||usage-us-fy2022.myhomescreen.tv^
 ||thetake.com^
 ||thetake.ai^
-
-
 # ORIGINAL from https://github.com/Perflyst/PiHoleBlocklist/blob/master/SmartTV-AGH.txt
-
 ! Title: Smart-TV Blocklist for AdGuard Home (by Dandelion Sprout's)
 ! Version: 6March2022v1
 ! Description: This is a blocklist to block smart-TVs sending metadata back home, sometimes with the added benefit of blocking interface ads for apps and movie services.
 ! Please help to collect domains!
 ! It could occur that the TV fails to receive new updates, or that other apps or services no longer work. Please report such an incident.
 ! This list version is for AdGuard Home only. If you use Pi-Hole, you must instead use https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt and https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
-
 ! Multiple brands
 ||smartclip.com^
 ||smartclip.net^
-
 ! Panasonic Viera & Panny TV
 ||myhomescreen.tv^
 ! If domains below are blocked, unable to use smart-TV apps like Netflix, Amazon Video, etc. as TV calls home for connection check
@@ -41,7 +57,6 @@
 @@||mhc-xpana-eu-s2.myhomescreen.tv^
 !vcs.vdspf.com  #  if blocked, notified of new firmware but unable to download/install
 ||vindicosuite.com^
-
 ! Sony Bravia
 ! needed for applications
 ! needed for applications, if blocked gives the error "No internet connection"
@@ -65,7 +80,6 @@
 ||api.cid.samba.tv^
 ! platform.cid.samba.tv^ # see Toshiba
 ||preferences.cid.samba.tv^
-
 ! LG
 ||ad.lgappstv.com^
 ||ibis.lgappstv.com^
@@ -83,7 +97,6 @@
 /^[a-z]{7,10}$/$ctag=device_tv
 ! Used in malware exploits
 ||aic-ngfts.lge.com^
-
 ! Philips
 !deviceportal.nettvservices.com # needed for apps
 !epg.corio.com # needed for apps
@@ -91,7 +104,6 @@
 ||nettv.corio.com^
 !www.ecdinterface.philips.com # Philips Hue Bridge
 ||ad.nettvservices.com^
-
 ! Samsung
 ||abtauthprd.samsungcloudsolution.com^
 !||acr0.samsungcloudsolution.com^ # https://www.reddit.com/r/oisd_blocklist/comments/m6j6fg/oisd_domain_blocklist/h3hulvq
@@ -133,7 +145,6 @@
 |samsungcloudsolution.net^
 |samsungqbe.com^
 !||samsungrm.net^ # https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
-||sas.samsungcloudsolution.com^
 ||sca.samsung.com^
 ||syncplusconfig.s3.amazonaws.com^
 ||us-api.samsungyosemite.com^
@@ -165,25 +176,15 @@
 !time.samsungcloudsolution.com # If blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
 !||otn.samsungcloudcdn.com^ # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
 !||www.samsungotn.net^ # Required for software update
-# further smart tv testing apps and ads and telemetry, may include apps on smart tv
-||disney.api.edge.bamgrid.com^ # disneyplus app related
-||playmoviesdfe-pa.googleapis.com^  # idle homescreen phone home
-||fcm.googleapis.com^ # idle homescreen phone home
-||embeddedassistant.googleapis.com^ # ok google assistant in tv
-||mtalk.google.com^ # some people with android phones may need to allowlist this
-||*-panelresearch.googlevideo.com^ # youtube app and android tv
-
 ! Roku
 ||logs.roku.com^
 ||display.ravm.tv^
 ||ravm.tv^
-
 ! Vizio
 ! Required for Vizio smart tv features
 !||api.vizio.com
 !||images.vizio.com
 !||announcements.vizio.com # No reason to block this
-
 ! HBBTV
 ||hbbtv-1.eurosport.com^
 ||hbbtv-extern-fe01.sim-technik.de^
@@ -195,7 +196,6 @@
 @@||hbbtv.zdf.de^
 @@||hbbtv.prosieben.de^
 @@||hbbtv.redbutton.de^
-
 ! Other useless connections from Smart-TV
 ||2mdn.net^
 ||ad.71i.de^
@@ -222,7 +222,6 @@
 !tv.deezer.com # Breaks Deezer's smart-TV apps.
 ||xml.opera.com^$ctag=device_tv
 ||api.thetake.com^ # https://thetake.ai/
-
 ! Netflix
 ! secure., api-global., and appboot. break Netflix
 !secure.netflix.com
@@ -232,17 +231,13 @@
 ||customerevents.netflix.com^
 !||nrdp.nccp.netflix.com^ # Netflix playback fails on Humax DTR-T2100 (YouView) STB; https://github.com/Perflyst/PiHoleBlocklist/issues/54
 !||nrdp.prod.ftl.netflix.com^ # https://oisd.nl/excludes.php?w=nrdp.prod.ftl.netflix.com
-
 ! Spotify
 !||api-tv.spotify.com^ # required for TV and PS4 spotify app
-
 ! Hulu
 ||api.distribution.hulu.com^
-
 ! Sharp Smart TV using Opera OS (thanks to sml156)
 ! time-a.timefreq.bldrdoc.gov          # probably not a good idea to block this one
 ! api.accuweather.com                  # probably not a good idea to block this one
-
 ! Hisense Smart TV
 ||api-gps-em.hismarttv.com^
 ||auth-em.hismarttv.com^
@@ -257,31 +252,24 @@
 ||unified-ter-na.hismarttv.com^
 ! These may be needed for software/firmware updates, not sure if it's one or both but the first one tries thousands of times a day to connect.
 ||api.*.hismarttv.com^
-
 ! SiliconDust HDHomeRun
 !||tuner-api.hdhomerun.com^ # required for firmware update
 !||location-api.hdhomerun.com^ # required for firmware update
-
 ! Foxtel Australia cable/satellite set-top box
 ||managed.xmpp.foxtel.com.au^
 ||foxtel-prod-events.digitalsmiths.net^
 ||e2.resources.foxtel.com.au^
 ||a1.resources.foxtel.com.au^
-
 ! Yamaha AV receivers
 !||avpro.global.yamaha.com^ # Blocks system updates on RX-V685
-
 ! Toshiba
 ||events.cid.samba.tv^
 ||platform.cid.samba.tv^
 !||file2fxm.azureedge.net^ # https://oisd.nl/excludes.php?w=file2fxm.azureedge.net
 ||7345023508.fxmconnect.com^
 ||7345023508.fxm9485766783.com^
-
 ! —————————————————————————————————————————————————————————————
-
 ! Entries based on https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt
-
 ! Amazon Fire TV (First-party)
 !||device-messaging-na.amazon.com^ # https://oisd.nl/excludes.php?w=device-messaging-na.amazon.com
 ||devicemessaging.us-east-1.amazon.com^
@@ -293,20 +281,17 @@
 ||msh.amazon.co.uk^
 ! amazonadsi-a.akamaihd.net^ # FireTV and Tablet app installation / updates
 ||mobileanalytics.us-east-1.amazonaws.com^
-
 ! Amazon Fire TV (Third-party)
 ||config.ioam.de^$ctag=device_tv|device_other
 ||secure-eu.imrworldwide.com^
 ||logs1409.xiti.com^
 ||tracksrv.zdf.de^
 ||settings.crashlytics.com^
-
 ! Xioami Mi TV
 ||mitv.tracking.intl.miui.com^
 ||tracking.intl.miui.com^
 !||data.mistat.intl.xiaomi.com^ # https://oisd.nl/excludes.php?w=data.mistat.intl.xiaomi.com
 ||sdkconfig.ad.intl.xiaomi.com^
-
 ! Android TV (including Nvidia Shield TV)
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
