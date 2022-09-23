@@ -1,9 +1,10 @@
-ichnaea.netflix.com # the biggest culprit
-beacon.netflix.com
-dockhand.netflix.com
-customerevents.netflix.com
-nmtracking.netflix.com
-presentationtracking.netflix.com
-appboot.netflix.com # found on some android tv boxs
-preapp.prod.partner.netflix.net # partner sharing
-nrdp-ipv6.prod.ftl.netflix.com # not needed and playback works blocking this. phones home alot on devices
+# moved to adblock format. Remove || and ^ if you want to use this Pi-Hole etc.
+||ichnaea.netflix.com^ # the biggest culprit
+||beacon.netflix.com^
+||dockhand.netflix.com^
+||customerevents.netflix.com^
+||nmtracking.netflix.com^
+||presentationtracking.netflix.com^
+||appboot.netflix.com^ # found on some android tv boxs
+||preapp.prod.partner.netflix.net^ # partner sharing
+||nrdp-ipv6.prod.ftl.netflix.com^ # not needed and playback works blocking this. phones home alot on devices
