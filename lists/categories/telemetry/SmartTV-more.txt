@@ -1,9 +1,4 @@
-### Title: SmartTV-more.txt
-### Description: More added hosts than SmartTV.txt which I found on Perflyst's Github for SmartTV.txt.
-### Last Updated: 2nd May 2022
-### RAW: https://raw.githubusercontent.com/lwsnz/pihole/main/lists/SmartTV-more.txt
-
-## my added hostnames
+## my added hostnames since Perflyst hasn't updated in awhile.
 ## Android TV Channel Update/s - optional - updates on-Demand TV channels for Android TV
 androidtvchannels-pa.googleapis.com
 
