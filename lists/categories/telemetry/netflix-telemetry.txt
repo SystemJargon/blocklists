@@ -1,5 +1,5 @@
 # moved to adblock format. Remove || and ^ if you want to use this Pi-Hole etc.
-# note not to block commented hosts with !
+# note not to block commented hosts with ! things may break if you do block.
 !nflxvideo.net^ # do not block. Usually the last portion of fqdn for Netflix playback via CDN. 
 !nflximg.com^ # do not block. Usually the last portion of fqdn for Netflix web content images/thumbnails.
 !www.netflix.com # do not block. Netflix Website.
@@ -9,10 +9,10 @@
 ||customerevents.netflix.com^
 ||nmtracking.netflix.com^
 ||presentationtracking.netflix.com^
-||appboot.netflix.com^ # found on some android tv boxs
+||appboot.netflix.com^ # found on some android tv boxs. May require allowlist on some devices if playback fails
 ||preapp.prod.partner.netflix.net^ # partner sharing
 ||nrdp-ipv6.prod.ftl.netflix.com^ # not needed and playback works blocking this. phones home alot on devices
-# to determine if to be blocked or allowed
-!nrdp.prod.ftl.netflix.com^ # purpose unknown
-!api-global.netflix.com^ # purpose unknown beside API
-!secure.netflix.com^ # purpose unknown, possible account management/transactions
+# So far on most devices tested, netflix app breaks if, you block the next 3 hosts.
+!nrdp.prod.ftl.netflix.com^ 
+!api-global.netflix.com^ 
+!secure.netflix.com^ 
