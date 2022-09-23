@@ -165,6 +165,13 @@
 !time.samsungcloudsolution.com # If blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
 !||otn.samsungcloudcdn.com^ # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
 !||www.samsungotn.net^ # Required for software update
+# further smart tv testing apps and ads and telemetry, may include apps on smart tv
+||disney.api.edge.bamgrid.com^ # disneyplus app related
+||playmoviesdfe-pa.googleapis.com^  # idle homescreen phone home
+||fcm.googleapis.com^ # idle homescreen phone home
+||embeddedassistant.googleapis.com^ # ok google assistant in tv
+||mtalk.google.com^ # some people with android phones may need to allowlist this
+||*-panelresearch.googlevideo.com^ # youtube app and android tv
 
 ! Roku
 ||logs.roku.com^
