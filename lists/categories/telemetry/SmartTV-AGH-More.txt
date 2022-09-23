@@ -15,7 +15,7 @@
 ||eligibility-panelresearch.googlevideo.com^
 ||deviceintegritytokens-pa.googleapis.com^
 ||gmscompliance-pa.googleapis.com^
-||mtalk.google.com^device_tv # tagged so phones needing google talk don't get block
+||mtalk.google.com^$ctag=device_tv # tagged so phones needing google talk don't get block
 # further smart tv testing apps and ads and telemetry, may include apps on smart tv
 ||disney.api.edge.bamgrid.com^ # disneyplus app related
 ||playmoviesdfe-pa.googleapis.com^  # idle homescreen phone home
