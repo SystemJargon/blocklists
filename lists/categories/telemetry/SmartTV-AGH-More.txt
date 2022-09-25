@@ -23,7 +23,8 @@
 ||embeddedassistant.googleapis.com^ # ok google assistant in tv
 ||mtalk.google.com^ # some people with android phones may need to allowlist this
 ||*-panelresearch.googlevideo.com^ # youtube app and android tv
-## end of Sept 2022 update.
+! Amend some samsung domains with || not |
+## END of Sept 2022 update.
 
 ## https://github.com/Perflyst/PiHoleBlocklist/pulls as of time of writing
 ## new hosts from pull-requests in Perflyst not yet added to main
@@ -141,9 +142,9 @@
 ||rwww.samsungotn.net^
 ||samsungacr.com^
 ||samsungadhub.com^
-|samsungcloudsolution.com^
-|samsungcloudsolution.net^
-|samsungqbe.com^
+||samsungcloudsolution.com^ # || not |
+||samsungcloudsolution.net^ # || not |
+||samsungqbe.com^ # || not |
 !||samsungrm.net^ # https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
 ||sca.samsung.com^
 ||syncplusconfig.s3.amazonaws.com^
