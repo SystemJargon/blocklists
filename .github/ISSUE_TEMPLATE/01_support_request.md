@@ -3,7 +3,7 @@ name: Support request
 about: Raise a support request
 title: ''
 labels: support
-assignees: ''
+assignees: '@systemjargon'
 ---
 
 ## What exactly are you trying to do?
