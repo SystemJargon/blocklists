@@ -1,3 +1,12 @@
+---
+name: issues.md
+about: Create an issue.
+title: "[Issue] - "
+labels: bug
+assignees: SystemJargon
+
+---
+
 ### Subject of the issue
 Describe your issue here. 
 
