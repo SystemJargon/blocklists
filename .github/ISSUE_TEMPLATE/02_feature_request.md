@@ -3,7 +3,7 @@ name: Feature request
 about: Request a new feature
 title: ''
 labels: enhancement
-assignees: '@systemjargon'
+assignees: SystemJargon
 ---
 
 ## Is your feature request related to a problem? Please describe.
