@@ -1,0 +1,18 @@
+## This is a Blocklist for samsung. To be used in the likes of AdBlockPlus, AdGuardHome and so on. 
+## This uses their known and popular domains registered, it does not include other CDN domains or the likes of AWS which they may also use.
+## See the telemetry folder for Smart TV lists in this repo if interested further in more granual lists. 
+# This may block some services on Samsung TV's and phones and other devices. Use an optional allow-list if required by you.
+! start of list
+||samsungcloudsolution.com^$important
+||samsungcloudsolution.net^$important
+||samsungyosemite.com^$important
+||samsung.com^$important
+||samsungcloudcdn.com^$important
+||samsungcloud.com^$important
+||samsungqbe.com^$important
+||samsungrm.net^$important
+||samsungelectronics.com^$important
+||samsungosp.com^$important
+||internetat.tv^$important
+||samsungnewsapi.picks.my^$important
+||samsungotn.net^$important
