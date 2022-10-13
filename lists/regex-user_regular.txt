@@ -1,0 +1,19 @@
+#### block regex
+#### Format tested and used in in AGH, may work in others.
+# Advertising
+! /ads/ # no ads but may produce false positives in joining words unrelated
+/advertising/ # no ads
+# tracking
+/location/ # no location
+/telemetry/ # no telemetry
+/tracking/ # no tracking
+/persistencecookie/ # no tracking
+/clickid/ # no tracking
+/click-id/ # no tracking
+/survey/ # no surveys
+# anti-scam strings for remote access software
+/anydesk/ # no remote-sofware
+/teamviewer/ # no remote-sofware
+/vnc/ # no remote-sofware
+/radmin/ # no remote-sofware
+/remoteaccess/ # no remote-sofware
