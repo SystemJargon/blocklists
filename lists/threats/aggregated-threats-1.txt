@@ -1,4 +1,5 @@
-# Aggregated and created by https://github.com/SystemJargon and Last Updated Thu 27 Oct 2022 12:10:03 PM NZDT
+# Aggregated and created by https://github.com/SystemJargon and Last Updated Fri 28 Oct 2022 12:10:03 PM NZDT
+# This list below has urls or domains associated with phishing links or spam email
 0701baibao-1305586011.cos.ap-nanjing.myqcloud.com
 0x6b.0254.0113.0244
 104-168-132-128.nip.io
@@ -535,7 +536,11 @@ fr56cvfi.cfd
 asud28cv.cfd
 freefiles34.xyz
 freefiles33.xyz
-wrtgh56mh.cfd# Sometimes known to host .ico or .png or image files which are part of other payloads (usually JS) to infect a victim or browser. Either that or the site has a bad rep.
+wrtgh56mh.cfd
+timur-online.com
+eventitaormina.it
+artradersltd.co.uk
+# Sometimes known to host .ico or .png or image files which are part of other payloads (usually JS) to infect a victim or browser. Either that or the site has a bad rep.
 code-examples.net
 kotaeta.com
 answer-id.com
