@@ -1,3 +1,4 @@
+# This list below has urls or domains associated with phishing links or spam email
 0701baibao-1305586011.cos.ap-nanjing.myqcloud.com
 0x6b.0254.0113.0244
 104-168-132-128.nip.io
@@ -535,3 +536,6 @@ asud28cv.cfd
 freefiles34.xyz
 freefiles33.xyz
 wrtgh56mh.cfd
+timur-online.com
+eventitaormina.it
+artradersltd.co.uk
