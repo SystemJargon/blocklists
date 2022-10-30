@@ -1,1 +1,1 @@
-/^proxy|vpn|tunnel|tor|onion/
+||/^proxy|vpn|tunnel|tor|onion/
