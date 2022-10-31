@@ -1,0 +1,32 @@
+# block youtube-adverts via browser Addon that uses AdGuard/EasyList rules syntax
+# REGEX BLOCKING
+||/^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
+||/^(.+[_.-])?telemetry[_.-]/
+||/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+||/^adim(age|g)s?[0-9]*[_.-]/
+||/^adtrack(er|ing)?[0-9]*[_.-]/
+||/^advert(s|is(ing|ements?))?[0-9]*[_.-]/
+||/^aff(iliat(es?|ion))?[_.-]/
+||/^analytics?[_.-]/
+||/^banners?[_.-]/
+||/^beacons?[0-9]*[_.-]/
+||/^count(ers?)?[0-9]*[_.-]/
+||/^mads\./
+||/^pixels?[-.]/
+||/^stat(s|istics)?[0-9]*[_.-]/
+||/simgad/
+||/googlead/
+||/adunit/
+# DOMAIN BLOCKING
+||googlesyndication.com^
+||doubleclick.net^
+||rr3.sn-uo1-53as.googlevideo.com
+www.youtube.com##.ytd-banner-promo-renderer.style-scope.ytd-banner-promo-renderer-background
+||i1.ytimg.com
+||rr5.sn-uo1-53az.googlevideo.com
+||jnn-pa.googleapis.com 
+||rr2---sn-uo1-53ad.googlevideo.com
+||photos-ugc.l.googleusercontent.com
+||*ad.googlevideo.com^
+||googleadservices.com
+||lh4.googleusercontent.com^
