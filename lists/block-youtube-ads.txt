@@ -21,10 +21,10 @@
 ||googlesyndication.com^
 ||doubleclick.net^
 ||rr3.sn-uo1-53as.googlevideo.com^
-www.youtube.com##.ytd-banner-promo-renderer.style-scope.ytd-banner-promo-renderer-background
+||www.youtube.com##.ytd-banner-promo-renderer.style-scope.ytd-banner-promo-renderer-background
 ||i1.ytimg.com^
 ||rr5.sn-uo1-53az.googlevideo.com^
-!||jnn-pa.googleapis.com^
+||jnn-pa.googleapis.com^
 ||rr2---sn-uo1-53ad.googlevideo.com^
 !||photos-ugc.l.googleusercontent.com^
 ||*ad.googlevideo.com^
