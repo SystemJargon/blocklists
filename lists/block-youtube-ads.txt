@@ -17,6 +17,10 @@
 ||/simgad/
 ||/googlead/
 ||/adunit/
+# regex specific block youtube ads pre-roll
+/^rr?[0-9].---sn-uo1-53**.googlevideo.com/ 
+/^rr[0-9]+-+sn-+[a-z0-9]+-+[a-z0-9]+\.googlevideo\.com$/
+/^rr+[0-9]---+sn-53+[a-z]+[a-z].googlevideo.com/
 # DOMAIN BLOCKING
 ||googlesyndication.com^
 ||doubleclick.net^
