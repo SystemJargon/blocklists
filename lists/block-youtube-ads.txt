@@ -30,12 +30,12 @@ www.youtube.com##.ytd-banner-promo-renderer.style-scope.ytd-banner-promo-rendere
 ||*ad.googlevideo.com^
 ||googleadservices.com^
 # further development
-||googleusercontent.com^
-||googleapis.com^
+!||googleusercontent.com^
+!||googleapis.com^
 ||redirector.googlevideo.com^
 ||encrypted-tbn2.gstatic.com^
 ||rr6---sn-uo1-53as.googlevideo.com^
 ||rr8---sn-uo1-53as.googlevideo.com^
 ||rr7---sn-uo1-53az.googlevideo.com^
-!||googlehosted.l.googleusercontent.com^
-!||lh3.googleusercontent.com^
+||googlehosted.l.googleusercontent.com^
+||lh3.googleusercontent.com^
