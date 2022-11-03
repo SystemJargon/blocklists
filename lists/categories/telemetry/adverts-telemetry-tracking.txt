@@ -117,9 +117,9 @@ trafficjunky.net
 as.2020mustang.com
 c2shb.ssp.yahoo.com
 # sony devices may include Smart TV and headphones/nearby devices using BLE.
-||ndmdhs.com # found via requests to cdn.meta.ndmdhs.com
-||api.amazonvideo.com # found via requests to various subdomains of .api.amazonvideo.com
-||me.sony.com # tracking via ap.lex.me.sony.com
+ndmdhs.com # found via requests to cdn.meta.ndmdhs.com
+api.amazonvideo.com # found via requests to various subdomains of .api.amazonvideo.com
+me.sony.com # tracking via ap.lex.me.sony.com
 # BeOp Endpoints. They asked for this not to be blocked in Issue #1 of blocklists - CAS in progress for next 3 lines.
 contents.beop.io 
 contents-tracking.beop.io
