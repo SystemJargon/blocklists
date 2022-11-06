@@ -1,6 +1,6 @@
-## blocklists for URL's and/or domains.
+A blocklist repo. Lists in various formats like AdGuard/Easylist, Pi-hole, HOSTS
 
-A blocklist repo for URL's and domains. Lists can be used in various ways. Such as those in AdGuardHome, Pi-hole, uBlock Origin, AdBlockPlus. 
+
 
 Links to my [Pi-hole](https://github.com/SystemJargon/pi-hole) and/or [AdGuardHome](https://github.com/SystemJargon/AdGuardHome) repo's
 
