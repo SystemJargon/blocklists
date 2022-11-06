@@ -148,4 +148,4 @@ hw.restlbs.map.wechatos.net #maps
 jenson.api.swiftkey.com #used by build-in SwiftKey
 lcs.loginfra.com #accessed upon opening Huawei AppGallery
 qgepodownload.mediatek.com #maps, gps?
-oneclient.sfx.ms
+oneclient.sfx.ms # microsoft related

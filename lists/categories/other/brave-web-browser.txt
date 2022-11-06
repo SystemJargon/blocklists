@@ -1,5 +1,5 @@
 # brave browser BAT rewards, other updates block
-api.rewards.brave.com^$important
-laptop-updates.brave.com^$important
-rewards.brave.com^$important
-variations.brave.com^$important
+api.rewards.brave.com
+laptop-updates.brave.com
+rewards.brave.com
+variations.brave.com
