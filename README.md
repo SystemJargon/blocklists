@@ -1,6 +1,4 @@
-A blocklist repo. Lists in various formats like AdGuard/Easylist, Pi-hole, HOSTS
-
-
+A blocklist repo. Lists in various formats like AdGuard/Easylist, Pi-hole, 
 
 Links to my [Pi-hole](https://github.com/SystemJargon/pi-hole) and/or [AdGuardHome](https://github.com/SystemJargon/AdGuardHome) repo's
 
