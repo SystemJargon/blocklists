@@ -1,0 +1,1 @@
+(\.|^)(adserve|adtrack|advert|affiliate|analytics|banners|beacons|click|counters|pixels|stats|statistics|telemetry|track|tracking)
