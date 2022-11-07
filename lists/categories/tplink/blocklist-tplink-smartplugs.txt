@@ -1,7 +1,7 @@
 # tplink smart plugs
-||tplinkcloud.com^ # block other tplink crap
-||tplinkra.com^ # block other tplink crap
-||tplinknbu.com^ block other tplink crap
+!||tplinkcloud.com^ # block other tplink crap
+!||tplinkra.com^ # block other tplink crap
+!||tplinknbu.com^ block other tplink crap
 # allow?
 !@@||use1-api.tplinkra.com^
 !@@||n-aps1-wap.tplinkcloud.com^
