@@ -8,6 +8,7 @@ Source data comes from an array of discovery, detection, aggregation and other w
 
 Commented lines use # or ! (usually to describe what/why where and if applicable). Generally I use # for comments and ! to exclude an entry per line.
 
+#### Stars and Follows are much appreciated on my repos (thanks)
 
 ### Status
 
@@ -17,10 +18,14 @@ Commented lines use # or ! (usually to describe what/why where and if applicable
 
 ### Links
 
-Links to my [Pi-hole](https://github.com/SystemJargon/pi-hole) and/or [AdGuardHome](https://github.com/SystemJargon/AdGuardHome) repo's
-
 [Compiled blocklists here](https://github.com/SystemJargon/blocklists/tree/main/lists). 
 
-[Subdomains and Regex and formats](https://github.com/SystemJargon/blocklists/blob/main/subdomains-regex-formats.md) - You may also like my [My Regex repo](https://github.com/SystemJargon/regex)
+Links to my repos on [Pi-hole](https://github.com/SystemJargon/pi-hole), [AdGuardHome](https://github.com/SystemJargon/AdGuardHome) and [Filters](https://github.com/SystemJargon/filters) (new!)
+
+[Regex Guide for Pi-hole and AdGuard/Easylist formats and other regex how-to's](https://github.com/SystemJargon/blocklists/blob/main/regex-101.md). 
+
+[Subdomains and Regex and formats](https://github.com/SystemJargon/blocklists/blob/main/subdomains-regex-formats.md) 
+
+[My regex specific repo](https://github.com/systemjargon/regex)
 
 <!-- more content -->
