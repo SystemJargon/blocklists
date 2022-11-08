@@ -91,6 +91,9 @@ atlasassessorcontabilidade.com
 vamosparaonde.com
 mantersaols.com
 premiercombate.eastus.cloudapp.azure.com
-kmsauto.us # BlueSky Ransomware IOC URL
-ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion # BlueSky Ransomware IOC URL
-37.49.230.74 # IOC for Digium phones re web shell attack
+# BlueSky Ransomware IOC URL
+kmsauto.us 
+# BlueSky Ransomware IOC URL
+ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion 
+# IOC for Digium phones re web shell attack
+37.49.230.74

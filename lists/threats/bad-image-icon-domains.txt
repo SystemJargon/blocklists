@@ -184,19 +184,4 @@ svg-clipart.com
 www.jing.fm
 graphicmama.com
 www.pngkit.com
-wanecque.com 
-# Below - only accept pinterest.com if browsing Pinterest, not other domains/urls like that below. Comment out/whitelist via Query log if you must.
-pinterest.nz
-pinterest.ph
-investor.pinterestinc.com
-pinterestcareers.com
-pinterest.cl
-pinterest.co.uk
-pinterest.at
-pinterest.ie
-pinterest.es
-pinterest.com.au
-pinterest.com.mx
-pinterest.ca
-pinterest.dk
-pinterest.fr
+wanecque.com
