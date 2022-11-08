@@ -22,9 +22,9 @@ Commented lines use # or ! (usually to describe what/why where and if applicable
 
 Links to my repos on [Pi-hole](https://github.com/SystemJargon/pi-hole), [AdGuardHome](https://github.com/SystemJargon/AdGuardHome) and [Filters](https://github.com/SystemJargon/filters) (new!)
 
-[Regex Guide for Pi-hole and AdGuard/Easylist formats and other regex how-to's](https://github.com/SystemJargon/blocklists/blob/main/regex-101.md). 
+[Regex How To](https://github.com/SystemJargon/blocklists/wiki/Regex-How-To)
 
-[Subdomains and Regex and formats](https://github.com/SystemJargon/blocklists/blob/main/subdomains-regex-formats.md) 
+[Understanding sub domains and regex formats](https://github.com/SystemJargon/blocklists/wiki/Understanding-sub-domains-and-regex-formats)
 
 [My regex specific repo](https://github.com/systemjargon/regex)
 
