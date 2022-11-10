@@ -1,4 +1,4 @@
-# Aggregated and created by https://github.com/SystemJargon and Last Updated Tue 08 Nov 2022 10:10:02 PM NZDT
+# Aggregated and created by https://github.com/SystemJargon and Last Updated Thu 10 Nov 2022 10:10:02 AM NZDT
 # This list below has urls or domains associated with phishing links or spam email
 0701baibao-1305586011.cos.ap-nanjing.myqcloud.com
 0x6b.0254.0113.0244
@@ -726,22 +726,7 @@ svg-clipart.com
 www.jing.fm
 graphicmama.com
 www.pngkit.com
-wanecque.com 
-# Below - only accept pinterest.com if browsing Pinterest, not other domains/urls like that below. Comment out/whitelist via Query log if you must.
-pinterest.nz
-pinterest.ph
-investor.pinterestinc.com
-pinterestcareers.com
-pinterest.cl
-pinterest.co.uk
-pinterest.at
-pinterest.ie
-pinterest.es
-pinterest.com.au
-pinterest.com.mx
-pinterest.ca
-pinterest.dk
-pinterest.fr# Follina CVE-2022-30190 related
+wanecque.com# Follina CVE-2022-30190 related
 tibet-gov.web.app
 tibetyouthcongress.com
 t1bet.net
@@ -838,7 +823,6 @@ office.l4cky.men
 rexdooley.ml
 relay2.kuimvd.ru
 ns2.webmiting.ru
-фсб.com
 # Gallium - PingPull
 micfkbeljacob.com
 df.micfkbeljacob.com
@@ -864,20 +848,20 @@ golden-cheats.com
 # PureCrypter Malware 
 # reference https://www.zscaler.com/blogs/security-research/technical-analysis-purecrypter
 amcomri.upro.site/.tmb/ID44/313606953372.jpg
-cdn.discordapp.com/attachments/933024359981932666/934953013670449253/Koieiminr.jpg
+# cdn.discordapp.com/attachments/933024359981932666/934953013670449253/Koieiminr.jpg
 amcomri.upro.site/.tmb/ID44/Ffobs.png
-cdn.discordapp.com/attachments/911013699026825266/935017324182913104/EpicGames.jpg
+#cdn.discordapp.com/attachments/911013699026825266/935017324182913104/EpicGames.jpg
 gbtak.ir/wp-content/846569297734.jpg
-cdn.discordapp.com/attachments/765212138226450455/934977016292327455/Installer2.log
-cdn.discordapp.com/attachments/934261104564113441/934945441370497054/FlareTopia_V5.1.log
-cdn.discordapp.com/attachments/934261104564113441/935058809200730142/new.log
+# cdn.discordapp.com/attachments/765212138226450455/934977016292327455/Installer2.log
+# cdn.discordapp.com/attachments/934261104564113441/934945441370497054/FlareTopia_V5.1.log
+# cdn.discordapp.com/attachments/934261104564113441/935058809200730142/new.log
 transfer.sh/get/3tWVO9/Evbccj.png
 gbtak.ir/wp-content/759279720662.jpg
 sub.areal-parfumi.si/kk/Lnnuda.log
 sub.areal-parfumi.si/new/Ofwcwpm.jpg
 gbtak.ir/wp-content/078571269562.jpg
-cdn.discordapp.com/attachments/846778795524751371/935185760783585360/Pmvzeaoj.log
-cdn.discordapp.com/attachments/933024359981932666/935065418803056680/Lkrbylqxx.png
+# cdn.discordapp.com/attachments/846778795524751371/935185760783585360/Pmvzeaoj.log
+# cdn.discordapp.com/attachments/933024359981932666/935065418803056680/Lkrbylqxx.png
 taskmgrdev.com/e/Jymuty.png
 # Lyceum-net-dns-backdoor
 news-spot.live
@@ -985,6 +969,8 @@ atlasassessorcontabilidade.com
 vamosparaonde.com
 mantersaols.com
 premiercombate.eastus.cloudapp.azure.com
-kmsauto.us # BlueSky Ransomware IOC URL
-ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion # BlueSky Ransomware IOC URL
-37.49.230.74 # IOC for Digium phones re web shell attack
+# BlueSky Ransomware IOC URL
+kmsauto.us 
+ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion 
+# IOC for Digium phones re web shell attack
+37.49.230.74
