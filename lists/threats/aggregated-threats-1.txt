@@ -1,4 +1,4 @@
-# Aggregated and created by https://github.com/SystemJargon and Last Updated Fri 11 Nov 2022 10:10:02 AM NZDT
+# Aggregated and created by https://github.com/SystemJargon and Last Updated Fri 11 Nov 2022 10:10:03 PM NZDT
 # This list below has urls or domains associated with phishing links or spam email
 0701baibao-1305586011.cos.ap-nanjing.myqcloud.com
 0x6b.0254.0113.0244
