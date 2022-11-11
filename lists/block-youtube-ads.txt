@@ -1,10 +1,10 @@
 # regex high probability block
 /r[0-9]*---sn-.*-.*.googlevideo.com/
 # others
-||googlesyndication.com^
-||doubleclick.net^
+!||googlesyndication.com^
+!||doubleclick.net^
 ||www.youtube.com##.ytd-banner-promo-renderer.style-scope.ytd-banner-promo-renderer-background
 ||*ad.googlevideo.com^
-||googleadservices.com^
-||redirector.googlevideo.com^
-||googlehosted.l.googleusercontent.com^
+!||googleadservices.com^
+!||redirector.googlevideo.com^
+!||googlehosted.l.googleusercontent.com^
