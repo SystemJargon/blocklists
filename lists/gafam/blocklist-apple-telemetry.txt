@@ -1,6 +1,8 @@
 # commented out if it breaks App Store front page load and searching apps 
 # downloads cdn.apple.com and appleid signin domains removed
 # push-apple.com.akadns.net subdomains maybe blocked but need whitelisting if app install or updates fail
+# repos of others seem to default include all hosts
+# source original https://raw.githubusercontent.com/cedws/apple-telemetry/master/blacklist
 0-courier.push.apple.com
 0.courier-push-apple.com.akadns.net
 10-courier.push.apple.com
