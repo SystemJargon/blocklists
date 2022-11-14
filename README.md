@@ -14,6 +14,7 @@ Commented lines use # or ! (usually to describe what/why where and if applicable
 
 [![HitCount](https://hits.dwyl.com/systemjargon/blocklists.svg?style=flat&show=unique)](http://hits.dwyl.com/systemjargon/blocklists) [![GitHub stars](https://img.shields.io/github/stars/systemjargon/blocklists)](https://github.com/systemjargon/blocklists/stargazers) [![GitHub stars](https://img.shields.io/github/forks/systemjargon/blocklists)](https://github.com/systemjargon/blocklists/stargazers) [![GitHub stars](https://img.shields.io/github/issues/systemjargon/blocklists)](https://github.com/systemjargon/blocklists/stargazers) [![last commit](https://img.shields.io/github/last-commit/SystemJargon/blocklists.svg)](https://github.com/SystemJargon/blocklists/commits/master) [![commit activity](https://img.shields.io/github/commit-activity/y/SystemJargon/blocklists.svg)](https://github.com/SystemJargon/blocklists/commits/master)
 ![GitHub repo size](https://img.shields.io/github/repo-size/systemjargon/blocklists)
+
 ----
 
 ### Links
