@@ -11,4 +11,5 @@
 /^count(ers?)?[0-9]*[_.-]/
 /^mads\./
 /^pixels?[-.]/
+/^popup?[_.-]/
 /^stat(s|istics)?[0-9]*[_.-]/

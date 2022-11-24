@@ -2,10 +2,11 @@
 ||id.server
 ||hostname.bind
 ||*.am^
-||*.app^ # some may need this whitelisted/removed
+!||*.app^ # some domains may need this whitelisted/removed
 ||*.bd^
 ||*.bid^
 ||*.br^
+||*.cc^
 ||*.cd^
 ||*.cf^
 ||*.ci^
@@ -18,12 +19,12 @@
 ||*.ga^
 ||*.gq^
 ||*.in^
+!||*.io^ # some domains may need this whitelisted/removed
 ||*.ke^
-||*.me^
 ||*.ml^
 ||*.mw^
-||*.nl^
 ||*.ph^
+||*.pics^
 ||*.pw^
 ||*.quest^
 ||*.recipes^
@@ -43,4 +44,4 @@
 ||*.xyz^
 ||*.yandex^
 ||*.zone^
-||*.zw^
+||*.zw

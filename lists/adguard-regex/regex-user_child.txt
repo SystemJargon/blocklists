@@ -29,3 +29,4 @@
 /payment/^$ctag=user_child
 /creditcard/^$ctag=user_child
 /billing/^$ctag=user_child
+/adult/^$ctag=user_child
