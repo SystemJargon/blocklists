@@ -1,6 +1,7 @@
 # This blocklist blocks Windows Updates 
 # This is a known host list. Some additional hosts from Microsoft may or may not exist for Windows Update.
-# Best efforts to date, compiled as of May 2022.
+# Best efforts to date, compiled as of Nov 2022.
+# Some hosts sourced from https://learn.microsoft.com/en-us/windows/privacy/manage-windows-21h2-endpoints
 adl.windows.com
 aria.microsoft.com
 checkappexec.microsoft.com
@@ -23,3 +24,7 @@ watson.telemetry.microsoft.com
 windowsupdate.com
 windowsupdate.microsoft.com
 windowsupdates.com
+# block windows defender
+go.microsoft.com
+wdcp.microsoft.com
+smartscreen-prod.microsoft.com
