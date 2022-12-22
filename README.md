@@ -19,6 +19,16 @@ Commented lines use # or ! (usually to describe what/why where and if applicable
 
 ### Links
 
+Want the Firebog ticklist?
+
+[FireBog-Ticklist-AdGuardFormat](https://raw.githubusercontent.com/SystemJargon/filters/main/firebog-ticklist.txt)
+
+[FireBog-Ticklist-HostsFormat/Pi-hole](https://raw.githubusercontent.com/SystemJargon/pi-hole/main/firebog-ticklist-hosts.txt)
+
+
+
+----
+
 [Compiled blocklists here](https://github.com/SystemJargon/blocklists/tree/main/lists). 
 
 Links to my repos on [Pi-hole](https://github.com/SystemJargon/pi-hole), [AdGuardHome](https://github.com/SystemJargon/AdGuardHome) and [Filters](https://github.com/SystemJargon/filters) (new!)
