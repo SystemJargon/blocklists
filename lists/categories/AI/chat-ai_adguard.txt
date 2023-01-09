@@ -3,4 +3,4 @@
 ||writesonic.com^
 ||beta.openai.com^
 ||you.com^
-!openai.com
+!||openai.com^
