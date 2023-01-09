@@ -1,0 +1,6 @@
+||chat.openai.com.cdn.cloudflare.net^
+||chat.openai.com^
+||writesonic.com^
+||beta.openai.com^
+||you.com^
+!openai.com
