@@ -1,7 +1,9 @@
+# chatgpt
 0.0.0.0	chat.openai.com.cdn.cloudflare.net
 0.0.0.0	chat.openai.com
-0.0.0.0	writesonic.com
 0.0.0.0	beta.openai.com
+0.0.0.0	openai.com
+# others
+0.0.0.0	writesonic.com
 0.0.0.0	you.com
 0.0.0.0	www.you.com
-#0.0.0.0	openai.com
