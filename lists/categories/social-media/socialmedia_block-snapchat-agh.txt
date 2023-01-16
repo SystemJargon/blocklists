@@ -1,0 +1,85 @@
+# Snapchat Chat
+||chat-gateway-prod.chat.snapchat.com^
+# Snapchat Website^
+||www.snapchat.com^
+||snapchat.com^
+||snap.com^
+# Snapchat App
+||feelinsonice-mvm.l.google.com^
+||feelinsonice-hrd.appspot.com^
+||app.snapchat.com^
+||mvm.snapchat.com^
+# Snapchat Login
+||pro-accounts.snapchat.com^
+||auth.snapchat.com^
+# Snapkit
+||api.snapkit.com^
+# Other
+||sc-cdn.net^
+||gcs.sc-cdn.net^
+||jaguar-prod.snapchat.com^
+||st.sc-jpl.com^
+||gtq.sct.sc-prod.net^
+||gtq6.sct.sc-prod.net^
+||am-prod.sc-jpl.com^
+||s.sc-cdn.net^
+||cf-st.sc-cdn.net^
+||bolt-gcdn.sc-cdn.net^
+||gcp.api.snapchat.com^
+||us-east1-aws.api.snapchat.com^
+||us-east4-gcp.api.snapchat.com^
+||europe-west1-gcp.api.snapchat.com^
+||images.bitmoji.com^
+||us-east1-aws.api.snapchat.com^
+||api.snapchat.com^
+||us-east1-aws.api.sc-gw.com^
+||snap-storage-cdn.l.google.com^
+||snap.events.mapbox.com^
+||ms.sc-jpl.com^
+||snap.api.mapbox.com^
+||st-lb.sc-jpl.com^
+||loc.sc-jpl.com^
+||cognac-prod.appspot.com^
+||scm.sc-jpl.com^
+||us-central1-gcp.api.sc-gw.com^
+||us-central1-gcp.api.snapchat.com^
+||map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com^
+||snapchat.appspot.com^
+||sc-analytics.appspot.com^
+||feelinsonice.appspot.com^
+||feelinsonice-hrd.appspot.com^
+||feelinsonice.com^
+||feelinsonice.appspot.com^
+||appspot.l.google.com^
+||data.flurry.com^
+||ase.adserver.snapads.com^
+||euw.adserver.snapads.com^
+||use.adserver.snapads.com^
+||usc.adserver.snapads.com^
+||app-analytics.snapchat.com^
+||app-analytics-v2.snapchat.com^
+||app.snapchat.com^
+||aws.api.snapchat.com^
+||cf-st.sc-cdn.net^
+||chat-gateway-prod.chat.snapchat.com^
+||gtq.sct.sc-prod.ne^
+||tib.snssdk.com^
+||loca.sc-jpl.com^
+||mvm.snapchat.com^
+||us-central1-gcp.api.snapchat.com^
+||webattachments.snapchat.com^
+||d3cwhzzyyewihk.cloudfront.net^
+||aws.duplex.snapchat.com^
+||internal-api.snapkit.com^
+||eu-west1-aws.duplex.sc-gw.com^
+||snapchat-proxy.appspot.com^
+||tr.snapchat.com^
+# Location?
+||loca.sc-jpl.com^
+# wildcard regex
+||(\.|^)snapchat\.com$^
+||(\.|^)snap\.com$^
+||(\.|^)sc-cdn\.net$^
+||(\.|^)sc-prod\.net$^
+||(\.|^)sc-gw\.com$^
+||(\.|^)sc-proxy\.com$^
