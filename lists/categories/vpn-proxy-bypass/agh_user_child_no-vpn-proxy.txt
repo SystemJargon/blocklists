@@ -1,8 +1,9 @@
 # no known vpn proxy sites - block by tag user_child
-||adguard-vpn.com^$ctag=user_child
-||nordvpn.com^$ctag=user_child
-||nordcdn.com^$ctag=user_child
-||nordsite.*^$ctag=user_child
+||adguard-vpn.com^$ctag=user_child # despite the name it is a VPN
+||nordvpn.com^$ctag=user_child # part of nordvpn 
+||nordcdn.com^$ctag=user_child  # part of nordvpn 
+||nordsite.*^$ctag=user_child # part of nordvpn 
+||nordpass.com^$ctag=user_child # part of nordvpn 
 ||cdn77.com^$ctag=user_child # part of nordvpn cdn
 ||applytics.zwyr157wwiu6eior.com^$ctag=user_child # Analytics via NordVPN riskware.
 ||zwyr157wwiu6eior.com^$ctag=user_child # NordVPN riskware. Many complaints online about this domain.
@@ -19,6 +20,7 @@
 ||torguard.net^$ctag=user_child
 ||torproject.org^$ctag=user_child
 ||ivpn.net^$ctag=user_child
+||theskyapn.com^$ctag=user_child
 ||mullvad.net^$ctag=user_child
 ||sec-tunnel.com^$ctag=user_child
 ||avira-vpn.com^$ctag=user_child
