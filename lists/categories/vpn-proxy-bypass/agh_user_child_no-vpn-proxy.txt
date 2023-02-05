@@ -25,3 +25,5 @@
 ||sec-tunnel.com^$ctag=user_child
 ||avira-vpn.com^$ctag=user_child
 ||vpn.net^$ctag=user_child # VPN Hamachi by LogMeIn. Same reasons with logmein.com for being blocked.
+||mask.icloud.com^$ctag=user_child # Apple Relay
+||mask-h2.icloud.com^$ctag=user_child # Apple Relay

@@ -25,3 +25,5 @@
 ||sec-tunnel.com^
 ||avira-vpn.com^
 ||vpn.net^ # VPN Hamachi by LogMeIn. Same reasons with logmein.com for being blocked.
+||mask.icloud.com^ # Apple Relay
+||mask-h2.icloud.com^ # Apple Relay
