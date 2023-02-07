@@ -1,0 +1,8 @@
+# chatgpt
+||chat.openai.com.cdn.cloudflare.net^$ctag=user_child
+||chat.openai.com^$ctag=user_child
+||beta.openai.com^$ctag=user_child
+!||openai.com^$ctag=user_child
+# others
+||writesonic.com^$ctag=user_child
+||you.com^$ctag=user_child
