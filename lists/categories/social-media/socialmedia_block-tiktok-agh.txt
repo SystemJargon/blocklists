@@ -3,6 +3,8 @@
 ||tiktok.com^
 ||tiktokv.com^
 ||tiktok.org^
+||ttlivecdn.com^
+||tiktokcdn-us.com^
 ||api-h2.tiktokv.com^
 ||api21-h2.tiktokv.com^
 ||ns-440.awsdns-55.com^
