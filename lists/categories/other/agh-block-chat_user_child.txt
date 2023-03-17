@@ -1,0 +1,11 @@
+! regex keywords to block
+||*chat*^$ctag=user_child
+||*messages*^$ctag=user_child
+||*messenger*^$ctag=user_child
+||*privatemessages*^$ctag=user_child
+||*instantmessaging*^$ctag=user_child
+! domains to block
+||instantmessaging-pa-jms-ap.googleapis.com^$ctag=user_child
+||chat.roblox.com^$ctag=user_child
+||privatemessages.roblox.com^$ctag=user_child
+! not duplicating socialmedia list below. This would be best if blocked with blocklists specific to said social media platform/domains.
