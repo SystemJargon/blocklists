@@ -31,7 +31,7 @@ Want the Firebog ticklist?
 
 [Compiled blocklists here](https://github.com/SystemJargon/blocklists/tree/main/lists). 
 
-Links to my repos on [Pi-hole](https://github.com/SystemJargon/pi-hole), [AdGuardHome](https://github.com/SystemJargon/AdGuardHome) and [Filters](https://github.com/SystemJargon/filters) (new!)
+Links to my repos on [Allowlists](https://github.com/SystemJargon/allowlists), [Pi-hole](https://github.com/SystemJargon/pi-hole), [AdGuardHome](https://github.com/SystemJargon/AdGuardHome) and [Filters](https://github.com/SystemJargon/filters) (new!)
 
 [Regex How To](https://github.com/SystemJargon/blocklists/wiki/Regex-How-To)
 
