@@ -330,7 +330,6 @@ api.weather.com
 appldnld.apple.com
 appldnld.apple.com.akadns.net
 appldnld.g.aaplimg.com
-apple.com
 apple-finance.query.yahoo.com
 appleid.apple.com
 appleid.apple.com.akadns.net
