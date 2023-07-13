@@ -1,0 +1,4 @@
+# domain
+||temu.com^
+# regex word
+*temu*^
