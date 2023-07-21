@@ -145,6 +145,8 @@
 0.0.0.0 cloakvpn.com
 0.0.0.0 cloudflare-dns.com
 0.0.0.0 cloudflare-gateway.com
+0.0.0.0 cloudflareclient.com
+0.0.0.0 cloudflareresolve.com
 0.0.0.0 cloudssh.net
 0.0.0.0 cloudssh.us
 0.0.0.0 commons.host

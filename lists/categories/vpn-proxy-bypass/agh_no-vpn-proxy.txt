@@ -145,6 +145,8 @@
 ||cloakvpn.com^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflareclient.com^
+||cloudflareresolve.com^
 ||cloudssh.net^
 ||cloudssh.us^
 ||commons.host^

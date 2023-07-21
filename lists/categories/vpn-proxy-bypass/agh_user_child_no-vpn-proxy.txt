@@ -145,6 +145,8 @@
 ||cloakvpn.com^$ctag=user_child
 ||cloudflare-dns.com^$ctag=user_child
 ||cloudflare-gateway.com^$ctag=user_child
+||cloudflareclient.com^$ctag=user_child
+||cloudflareresolve.com^$ctag=user_child
 ||cloudssh.net^$ctag=user_child
 ||cloudssh.us^$ctag=user_child
 ||commons.host^$ctag=user_child
