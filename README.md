@@ -33,10 +33,13 @@ Want the Firebog ticklist?
 
 Links to my repos on [Allowlists](https://github.com/SystemJargon/allowlists), [Pi-hole](https://github.com/SystemJargon/pi-hole), [AdGuardHome](https://github.com/SystemJargon/AdGuardHome) and [Filters](https://github.com/SystemJargon/filters) (new!)
 
+[My regex specific repo](https://github.com/systemjargon/regex)
+
+<b>Wiki Links</b>:
+
 [Regex How To](https://github.com/SystemJargon/blocklists/wiki/Regex-How-To)
 
 [Understanding sub domains and regex formats](https://github.com/SystemJargon/blocklists/wiki/Understanding-sub-domains-and-regex-formats)
 
-[My regex specific repo](https://github.com/systemjargon/regex)
 
 <!-- more content -->
