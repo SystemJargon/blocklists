@@ -1,3 +1,4 @@
+! Created by github.com/SystemJargon/blocklists
 ||0000a-fast-proxy.de^$ctag=user_child
 ||012proxy.ga^$ctag=user_child
 ||0x3d.lu^$ctag=user_child
