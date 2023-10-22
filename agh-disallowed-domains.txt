@@ -1,3 +1,4 @@
+! Syntax: AdBlock
 ||version.bind
 ||id.server
 ||hostname.bind
