@@ -1,0 +1,10 @@
+! Title: Test AdBlock List
+! Description: A Test AdBlock List. This should block example.com
+! Homepage: https://github.com/systemjargon/blocklists/
+! Issues: https://github.com/systemjargon/blocklists/issues
+! Expires: 365 days
+! Last modified: 22 Oct 2023 05:24 UTC
+! Syntax: AdBlock
+! Number of entries: 1
+!
+||example.com^
