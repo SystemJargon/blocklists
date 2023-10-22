@@ -1,3 +1,4 @@
+! Created by github.com/SystemJargon/blocklists
 ||0000a-fast-proxy.de^
 ||012proxy.ga^
 ||0x3d.lu^
