@@ -140,6 +140,7 @@
 ||chromeproxy.net^$ctag=user_child
 ||ciscossh.com^$ctag=user_child
 ||citizenvpn.com^$ctag=user_child
+||cdnjs.cloudflare.com^$ctag=user_child
 ||cleanbrowsing.org^$ctag=user_child
 ||clearvpn.com^$ctag=user_child
 ||cloakvpn.com^$ctag=user_child
