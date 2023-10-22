@@ -140,6 +140,7 @@
 ||chromeproxy.net^
 ||ciscossh.com^
 ||citizenvpn.com^
+||cdnjs.cloudflare.com^
 ||cleanbrowsing.org^
 ||clearvpn.com^
 ||cloakvpn.com^
