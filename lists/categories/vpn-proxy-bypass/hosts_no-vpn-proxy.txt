@@ -1,3 +1,4 @@
+# Created by github.com/SystemJargon/blocklists
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 012proxy.ga
 0.0.0.0 0x3d.lu
