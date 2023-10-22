@@ -3,7 +3,11 @@
 /dnsmasq/*.txt linguist-language=fundamental linguist-detectable
 /domains/*.txt linguist-language=fundamental linguist-detectable
 /hosts/*.txt linguist-language=hosts linguist-detectable
+/ips/*.txt linguist-language=fundamental linguist-detectable
+/pac/*.pac linguist-language=js linguist-detectable
 /regex/*.txt linguist-language=regex linguist-detectable
+/rpz/*.txt linguist-language=fundamental linguist-detectable
+/unbound/*.conf linguist-language=fundamental linguist-detectable
 /wildcard/*.txt linguist-language=fundamental linguist-detectable
 /*.txt linguist-language=fundamental linguist-detectable
 
