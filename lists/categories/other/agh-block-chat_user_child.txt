@@ -1,3 +1,4 @@
+! Syntax: AdBlock
 ! regex keywords to block
 !||*chat*^$ctag=user_child
 !||*messages*^$ctag=user_child
