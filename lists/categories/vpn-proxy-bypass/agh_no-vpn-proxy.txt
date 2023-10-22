@@ -130,6 +130,7 @@
 ||cantfindme.org^
 ||caproxies.info^
 ||cdn77.com^
+||cdnjs.cloudflare.com^
 ||cedarbranches.com^
 ||celo.net^
 ||changemyip.com^
@@ -142,12 +143,13 @@
 ||chromeproxy.net^
 ||ciscossh.com^
 ||citizenvpn.com^
-||cdnjs.cloudflare.com^
+||cjdns.cloudflare.com^
 ||cleanbrowsing.org^
 ||clearvpn.com^
 ||cloakvpn.com^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||cloudflare.com^
 ||cloudflareclient.com^
 ||cloudflareresolve.com^
 ||cloudssh.net^
@@ -156,6 +158,7 @@
 ||comss.one^
 ||comss.ru^
 ||connectionvpn.com^
+||connectivity.cloudflareclient.com^
 ||contassh.com^
 ||controld.com^
 ||coolbits.org^
@@ -395,6 +398,7 @@
 ||edgy-dns.com^
 ||emban-networks.com^
 ||encrypt.me^
+||engage.cloudflareclient.com^
 ||englandproxy.co.uk^
 ||epicbrowser.com^
 ||eropa.dnscepat.id^
