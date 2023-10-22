@@ -130,6 +130,7 @@
 ||cantfindme.org^$ctag=user_child
 ||caproxies.info^$ctag=user_child
 ||cdn77.com^$ctag=user_child
+||cdnjs.cloudflare.com^$ctag=user_child
 ||cedarbranches.com^$ctag=user_child
 ||celo.net^$ctag=user_child
 ||changemyip.com^$ctag=user_child
@@ -142,12 +143,13 @@
 ||chromeproxy.net^$ctag=user_child
 ||ciscossh.com^$ctag=user_child
 ||citizenvpn.com^$ctag=user_child
-||cdnjs.cloudflare.com^$ctag=user_child
+||cjdns.cloudflare.com^$ctag=user_child
 ||cleanbrowsing.org^$ctag=user_child
 ||clearvpn.com^$ctag=user_child
 ||cloakvpn.com^$ctag=user_child
 ||cloudflare-dns.com^$ctag=user_child
 ||cloudflare-gateway.com^$ctag=user_child
+||cloudflare.com^$ctag=user_child
 ||cloudflareclient.com^$ctag=user_child
 ||cloudflareresolve.com^$ctag=user_child
 ||cloudssh.net^$ctag=user_child
@@ -156,6 +158,7 @@
 ||comss.one^$ctag=user_child
 ||comss.ru^$ctag=user_child
 ||connectionvpn.com^$ctag=user_child
+||connectivity.cloudflareclient.com^$ctag=user_child
 ||contassh.com^$ctag=user_child
 ||controld.com^$ctag=user_child
 ||coolbits.org^$ctag=user_child
@@ -395,6 +398,7 @@
 ||edgy-dns.com^$ctag=user_child
 ||emban-networks.com^$ctag=user_child
 ||encrypt.me^$ctag=user_child
+||engage.cloudflareclient.com^$ctag=user_child
 ||englandproxy.co.uk^$ctag=user_child
 ||epicbrowser.com^$ctag=user_child
 ||eropa.dnscepat.id^$ctag=user_child
