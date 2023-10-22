@@ -140,6 +140,7 @@
 0.0.0.0 chromeproxy.net
 0.0.0.0 ciscossh.com
 0.0.0.0 citizenvpn.com
+0.0.0.0 cdnjs.cloudflare.com
 0.0.0.0 cleanbrowsing.org
 0.0.0.0 clearvpn.com
 0.0.0.0 cloakvpn.com
