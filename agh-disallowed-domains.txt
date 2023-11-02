@@ -44,5 +44,6 @@
 ||*.xxx^
 ||*.xyz^
 ||*.yandex^
+||*.zip^
 ||*.zone^
 ||*.zw
