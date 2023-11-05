@@ -1,4 +1,4 @@
-# Format
+# Format Language
 /agh-disallowed-domains.txt linguist-language=adblock linguist-detectable
 /adguard-regex/*.list linguist-language=adblock linguist-detectable
 /adguard-regex/*.txt linguist-language=adblock linguist-detectable
