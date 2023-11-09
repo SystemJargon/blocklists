@@ -1,6 +1,12 @@
 # blocklists
 
+If you want all-in-one category lists and things to just work in a set-and-forget type scenario (so automatic/simple/easy) use the lists over at my [Filters repo](https://github.com/SystemJargon/filters) instead.
+
+That repo leverages some of this repo anyway.
+
 ## About
+
+This repo contains more broken down indvididual lists which are specific and niche to domains/platforms or for those who want to customize their lists or blocking further.
 
 Various blocklists for ads, telemetry, phishing/scam/malware/bad sh*t and much more.
 
