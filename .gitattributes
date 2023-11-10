@@ -1,11 +1,13 @@
 # Format Language
-/agh-disallowed-domains.txt linguist-language=adblock linguist-detectable
+agh-disallowed-domains.txt linguist-language=adblock linguist-detectable
 /adguard-regex/*.list linguist-language=adblock linguist-detectable
 /adguard-regex/*.txt linguist-language=adblock linguist-detectable
 /pihole-regex/*.list linguist-language=regex linguist-detectable
 /pihole-regex/*.txt linguist-language=regex linguist-detectable
 /lists/firebog-ticklist.txt linguist-language=fundamental linguist-detectable
 /lists/phish-malware-nsfw.txt linguist-language=fundamental linguist-detectable
+/lists/*hosts* linguist-language=hosts linguist-detectable
+/lists/*agh* linguist-language=adblock linguist-detectable
 
 # Auto detect text files and perform LF normalization
 * text=auto eol=lf
