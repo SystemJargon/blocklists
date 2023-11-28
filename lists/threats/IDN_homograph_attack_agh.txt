@@ -1,0 +1,4 @@
+! Block common Cyrillic alphabet characters
+! reference https://en.wikipedia.org/wiki/IDN_homograph_attack
+||\.[асеорху]\.^
+||\.[АВСЕНКМОРТХ]\.^
