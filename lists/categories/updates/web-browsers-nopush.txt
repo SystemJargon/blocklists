@@ -26,7 +26,10 @@ r.bing.com
 th.bing.com
 business.bing.com
 edgeservices.bing.com
-# bing maps API and lookup found in Edge browser
-ecn.dev.virtualearth.net
+# bing maps API and lookup found in Edge browser (commented)
+# ecn.dev.virtualearth.net
+# bing search (commented)
+# bing.com
+# www.bing.com
 # duckduckgo search engine
 improving.duckduckgo.com
