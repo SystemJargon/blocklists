@@ -15,13 +15,18 @@ grant.rewards.brave.com
 rewards.brave.com
 variations.brave.com
 # edge browser
-browser.events.data.msn.com
 edge.microsoft.com
 srtb.msn.com
 c.msn.com
+assets.msn.com
+browser.events.data.msn.com
 r.msftstatic.com
+c.bing.com
 r.bing.com
+th.bing.com
 business.bing.com
 edgeservices.bing.com
+# bing maps API and lookup found in Edge browser
+ecn.dev.virtualearth.net
 # duckduckgo search engine
 improving.duckduckgo.com
