@@ -61,6 +61,13 @@ logservice-dre.platform.hicloud.com
 logservice-drru.dt.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
+# LineageOS and Cyanogen 
+stats.lineageos.org
+account.cyngn.com
+api.cyngn.com
+shopvac.cyngn.com
+stats.cyanogenmod.org
+stats.lineageos.org
 # Roku
 logs.roku.com
 # Samsung
