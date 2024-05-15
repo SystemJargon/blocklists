@@ -1,5 +1,5 @@
-# Aggregated and created by https://github.com/SystemJargon and Last Updated Tue 03 Jan 2023 07:33:22 PM NZDT
-# This list below has urls or domains associated with phishing links or spam email
+# Aggregated and created by https://github.com/SystemJargon 
+# This list below has urls or domains associated with various threats from phishing, typosquat, spam, scams and more. No reason to not block.
 0701baibao-1305586011.cos.ap-nanjing.myqcloud.com
 0x6b.0254.0113.0244
 104-168-132-128.nip.io
@@ -973,3 +973,8 @@ kmsauto.us
 ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion 
 # IOC for Digium phones re web shell attack
 37.49.230.74
+# typosquat for url shorteners
+tinyirl.com
+tonyurl.com
+biit.ly
+bot.ly
