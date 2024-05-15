@@ -1,5 +1,10 @@
 # Aggregated and created by https://github.com/SystemJargon 
 # This list below has urls or domains associated with various threats from phishing, typosquat, spam, scams and more. No reason to not block.
+! Block common Cyrillic alphabet characters
+! reference https://en.wikipedia.org/wiki/IDN_homograph_attack
+||\.[асеорху]\.^
+||\.[АВСЕНКМОРТХ]\.^
+! the rest
 0701baibao-1305586011.cos.ap-nanjing.myqcloud.com
 0x6b.0254.0113.0244
 104-168-132-128.nip.io
