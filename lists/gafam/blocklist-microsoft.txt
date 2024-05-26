@@ -288,6 +288,7 @@ assets.msn.com
 assuritystorage.blob.core.windows.net
 atdmt.com
 atlassolutions.com
+atm-settingsfe-prod-geo2.trafficmanager.net
 au-bg-shim.trafficmanager.net
 au.download.windowsupdate.com
 au.download.windowsupdate.com.edgesuite.net
@@ -350,6 +351,7 @@ bl2p.wns.windows.com
 bl3301-a.1drv.com
 bl3301-c.1drv.com
 bl3301-g.1drv.com
+blob.core.windows.net
 blob.dsm08prdstr03a.store.core.windows.net
 blob.sn4prdstr03a.store.core.windows.net
 blob.weather.microsoft.com
@@ -599,6 +601,8 @@ ctest.microsoft.com
 ctldl.windowsupdate.com
 customers.microsoft.com
 customerstest.microsoft.com
+cxcs.microsoft.net
+cxcs.microsoft.net.edgekey.net
 cy2.settings.data.microsoft.com.akadns.net
 cy2.vortex.data.microsoft.com.akadns.net
 da.xboxservices.com
@@ -989,6 +993,7 @@ e-typedesign.co.uk
 e.microsoft.com
 e10370.g.akamaiedge.net
 e11290.dspg.akamaiedge.net
+e3230.b.akamaiedge.net
 earn.microsoft.com
 eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
@@ -1990,6 +1995,7 @@ services-cdn.gfe.nvidia.com
 services.gfe.nvidia.com
 services.wes.df.telemetry.microsoft.com
 serving-sys.com
+settings-prod-eus-1.eastus.cloudapp.azure.com
 settings-sandbox.data.microsoft.com
 settings-ssl.xboxlive.com
 settings-win-ppe.data.microsoft.com
@@ -2268,6 +2274,7 @@ windowvista.com.br
 windwosphone.com
 wldrive.com.br
 wmplugins.com
+wns.windows.com
 wns2-db5p.wns.windows.com
 wns2-par02p.wns.windows.com
 wpc.v0cdn.net
