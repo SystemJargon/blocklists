@@ -2280,7 +2280,6 @@
 ||wpc.v0cdn.net^
 ||wpcdn.blob.core.windows.net^
 ||wscont.apps.microsoft.com^
-||wscont.apps.microsoft.com.edgesuite.net^
 ||wscont1.apps.microsoft.com^
 ||wscont2.apps.microsoft.com^
 ||wu-fg-shim.trafficmanager.net^
