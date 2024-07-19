@@ -1,0 +1,12 @@
+## Issue Statement link https://www.crowdstrike.com/blog/statement-on-falcon-content-update-for-windows-hosts/
+## crowdstrike parent domain 
+# crowdstrike.com
+# crowdstrike API regions and urls
+# US-1 “api.crowdstrike.com”
+api.crowdstrike.com
+# US-2 “api.us-2.crowdstrike.com”
+api.us-2.crowdstrike.com
+# US-GOV-1 “api.laggar.gcw.crowdstrike.com”
+api.laggar.gcw.crowdstrike.com
+# EU-1 “api.eu-1.crowdstrike.com”
+api.eu-1.crowdstrike.com
