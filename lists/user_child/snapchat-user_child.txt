@@ -1,0 +1,84 @@
+# Snapchat Chat
+||chat-gateway-prod.chat.snapchat.com^$ctag=user_child
+# Snapchat Website^$ctag=user_child
+||www.snapchat.com^$ctag=user_child
+||snapchat.com^$ctag=user_child
+||snap.com^$ctag=user_child
+# Snapchat App
+||feelinsonice-mvm.l.google.com^$ctag=user_child
+||feelinsonice-hrd.appspot.com^$ctag=user_child
+||app.snapchat.com^$ctag=user_child
+||mvm.snapchat.com^$ctag=user_child
+# Snapchat Login
+||pro-accounts.snapchat.com^$ctag=user_child
+||auth.snapchat.com^$ctag=user_child
+# Snapkit
+||api.snapkit.com^$ctag=user_child
+# Other
+||sc-cdn.net^$ctag=user_child
+||gcs.sc-cdn.net^$ctag=user_child
+||jaguar-prod.snapchat.com^$ctag=user_child
+||st.sc-jpl.com^$ctag=user_child
+||gtq.sct.sc-prod.net^$ctag=user_child
+||gtq6.sct.sc-prod.net^$ctag=user_child
+||am-prod.sc-jpl.com^$ctag=user_child
+||s.sc-cdn.net^$ctag=user_child
+||cf-st.sc-cdn.net^$ctag=user_child
+||bolt-gcdn.sc-cdn.net^$ctag=user_child
+||gcp.api.snapchat.com^$ctag=user_child
+||us-east1-aws.api.snapchat.com^$ctag=user_child
+||us-east4-gcp.api.snapchat.com^$ctag=user_child
+||europe-west1-gcp.api.snapchat.com^$ctag=user_child
+||images.bitmoji.com^$ctag=user_child
+||us-east1-aws.api.snapchat.com^$ctag=user_child
+||api.snapchat.com^$ctag=user_child
+||us-east1-aws.api.sc-gw.com^$ctag=user_child
+||snap-storage-cdn.l.google.com^$ctag=user_child
+||snap.events.mapbox.com^$ctag=user_child
+||ms.sc-jpl.com^$ctag=user_child
+||snap.api.mapbox.com^$ctag=user_child
+||st-lb.sc-jpl.com^$ctag=user_child
+||loc.sc-jpl.com^$ctag=user_child
+||cognac-prod.appspot.com^$ctag=user_child
+||scm.sc-jpl.com^$ctag=user_child
+||us-central1-gcp.api.sc-gw.com^$ctag=user_child
+||us-central1-gcp.api.snapchat.com^$ctag=user_child
+||map-status-p-service-ext-alb-206522301.us-west-2.elb.amazonaws.com^$ctag=user_child
+||snapchat.appspot.com^$ctag=user_child
+||sc-analytics.appspot.com^$ctag=user_child
+||feelinsonice.appspot.com^$ctag=user_child
+||feelinsonice-hrd.appspot.com^$ctag=user_child
+||feelinsonice.com^$ctag=user_child
+||feelinsonice.appspot.com^$ctag=user_child
+||appspot.l.google.com^$ctag=user_child
+||data.flurry.com^$ctag=user_child
+||ase.adserver.snapads.com^$ctag=user_child
+||euw.adserver.snapads.com^$ctag=user_child
+||use.adserver.snapads.com^$ctag=user_child
+||usc.adserver.snapads.com^$ctag=user_child
+||app-analytics.snapchat.com^$ctag=user_child
+||app-analytics-v2.snapchat.com^$ctag=user_child
+||app.snapchat.com^$ctag=user_child
+||aws.api.snapchat.com^$ctag=user_child
+||cf-st.sc-cdn.net^$ctag=user_child
+||chat-gateway-prod.chat.snapchat.com^$ctag=user_child
+||gtq.sct.sc-prod.ne^$ctag=user_child
+||tib.snssdk.com^$ctag=user_child
+||loca.sc-jpl.com^$ctag=user_child
+||mvm.snapchat.com^$ctag=user_child
+||us-central1-gcp.api.snapchat.com^$ctag=user_child
+||webattachments.snapchat.com^$ctag=user_child
+||d3cwhzzyyewihk.cloudfront.net^$ctag=user_child
+||aws.duplex.snapchat.com^$ctag=user_child
+||internal-api.snapkit.com^$ctag=user_child
+||eu-west1-aws.duplex.sc-gw.com^$ctag=user_child
+||snapchat-proxy.appspot.com^$ctag=user_child
+||tr.snapchat.com^$ctag=user_child
+# Location?
+||loca.sc-jpl.com^$ctag=user_child
+# wildcard regex
+!||*snapchat.com*^$ctag=user_child
+!||*sc-cdn.net*^$ctag=user_child
+!||*sc-prod.net*^$ctag=user_child
+!||*sc-gw.com*^$ctag=user_child
+!||*sc-proxy.com*^$ctag=user_child
