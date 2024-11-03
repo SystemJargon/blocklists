@@ -10,3 +10,4 @@
 ||you.com
 ||bing.com
 ||replika.ai
+||deepai.org
