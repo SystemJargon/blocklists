@@ -11,3 +11,4 @@
 ||you.com^$ctag=user_child
 ||bing.com^$ctag=user_child
 ||replika.ai^$ctag=user_child
+||deepai.org^$ctag=user_child
