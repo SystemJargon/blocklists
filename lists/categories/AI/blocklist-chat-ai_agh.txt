@@ -1,13 +1,26 @@
+## Block Common AI generative - langugage models domains to
+## Source https://github.com/SystemJargon/blocklists
+## Blocklist for clients in AGH
+# OpenAI
+||openai.com^
 ||chat.openai.com^
-||ai.google.com^
-||bard.google.com^
-||mightygpt.com^
 ||chat.openai.com.cdn.cloudflare.net^
 ||chat.openai.com^
 ||beta.openai.com^
-||openai.com^
+# Microsoft
+||bing.com^
+||copilot.microsoft.com^
+# Google
+||ai.google.com^
+||bard.google.com^
+||gemini.google.com^
+# Others
+||mightygpt.com^
 ||writesonic.com^
 ||you.com^
-||bing.com^
 ||replika.ai^
 ||deepai.org^
+# regex of words  
+||*aichat*^
+# TLD .ai
+||*.ai^
