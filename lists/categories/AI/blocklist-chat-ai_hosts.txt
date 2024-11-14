@@ -17,3 +17,5 @@
 0.0.0.0 you.com
 0.0.0.0 replika.ai
 0.0.0.0 deepai.org
+0.0.0.0 talkai.info
+0.0.0.0 poe.com
