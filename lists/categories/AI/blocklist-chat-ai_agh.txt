@@ -20,6 +20,8 @@
 ||you.com^
 ||replika.ai^
 ||deepai.org^
+||talkai.info^
+||poe.com^
 # regex of words  
 ||*aichat*^
 # TLD .ai
