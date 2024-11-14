@@ -21,6 +21,6 @@
 ||replika.ai^$ctag=user_child
 ||deepai.org^$ctag=user_child
 # regex of words  
-||*aichat*$ctag=user_child
+||*aichat*^$ctag=user_child
 # TLD .ai
 ||*.ai^$ctag=user_child
