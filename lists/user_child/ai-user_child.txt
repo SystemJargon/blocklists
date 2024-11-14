@@ -20,6 +20,8 @@
 ||you.com^$ctag=user_child
 ||replika.ai^$ctag=user_child
 ||deepai.org^$ctag=user_child
+||talkai.info^$ctag=user_child
+||poe.com^$ctag=user_child
 # regex of words  
 ||*aichat*^$ctag=user_child
 # TLD .ai
