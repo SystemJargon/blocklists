@@ -1,14 +1,26 @@
-# blocklist of common AI generative - langugage models
+## Block Common AI generative - langugage models domains to
+## Source https://github.com/SystemJargon/blocklists
+## Blocklist for user_child tagged clients in AGH
+# OpenAI
+||openai.com^$ctag=user_child
 ||chat.openai.com^$ctag=user_child
-||ai.google.com^$ctag=user_child
-||bard.google.com^$ctag=user_child
-||mightygpt.com^$ctag=user_child
 ||chat.openai.com.cdn.cloudflare.net^$ctag=user_child
 ||chat.openai.com^$ctag=user_child
 ||beta.openai.com^$ctag=user_child
-||openai.com^$ctag=user_child
+# Microsoft
+||bing.com^$ctag=user_child
+||copilot.microsoft.com^$ctag=user_child
+# Google
+||ai.google.com^$ctag=user_child
+||bard.google.com^$ctag=user_child
+||gemini.google.com^$ctag=user_child
+# Others
+||mightygpt.com^$ctag=user_child
 ||writesonic.com^$ctag=user_child
 ||you.com^$ctag=user_child
-||bing.com^$ctag=user_child
 ||replika.ai^$ctag=user_child
 ||deepai.org^$ctag=user_child
+# regex of words  
+||*aichat*$ctag=user_child
+# TLD .ai
+||*.ai^$ctag=user_child
