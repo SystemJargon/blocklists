@@ -1,7 +1,7 @@
 ## List Name: SystemJargon_Block_SocialMedia_AG.txt
-## Last Update: March 2023 (1735 entries including regex)
+## Last Update: November 2024
 ## Author: SystemJargon
-## This list is meant to be used in AdGuard solutions only. Example AdGuardHome.
+## This list is meant to be used in adblock solutions only. Example AdGuardHome.
 ## I ask that if you copy this list or reuse it - that you keep these comments intact or attribute my username and repo url as the original source.
 ## This list originally should be from one of the repos below.
 ## Blocklists repo https://github.com/systemjargon/blocklists
@@ -29,6 +29,11 @@
 ||(\.|^)whatsapp-cdn\.net$^
 ||(\.|^)whatsapp-prod\.net$^
 ||(\.|^)whatsapp\.com$^
+# tiktok and common words in regex
+||*byteoversea*^
+||*ibytedtos*^
+||*tiktok*^
+||*ttlivecdn*^
 # domains and url patterns
 ||0-edge-chat.facebook.com^
 ||1-edge-chat.facebook.com^
@@ -426,6 +431,11 @@
 ||busuu.com^
 ||buzzflash.net^
 ||buzznet.com^
+||byteglb.com^
+||byteigtm.com^
+||byteimg.com^
+||byteoversea.com^
+||byteoversea.net^
 ||cafemom.com^
 ||cakefinancial.com^
 ||cardomain.com^
@@ -974,6 +984,7 @@
 ||humblevoice.com^
 ||hypediss.com^
 ||hyperlinkomatic.com^
+||hypstarcdn.com^
 ||hyves.net^
 ||hyves.nl^
 ||i-am-bored.com^
@@ -983,6 +994,7 @@
 ||ibritz.com^
 ||ibytedos.com^
 ||ibytedtos.com^
+||ibyteimg.com^
 ||icarecafe.com^
 ||identi.ca^
 ||ieji.de^
@@ -1155,6 +1167,7 @@
 ||mubi.com^
 ||multiply.com^
 ||muscdn.com^
+||musemuse.cn^
 ||musical.ly^
 ||musically.ly^
 ||mvm.snapchat.com^
@@ -1423,6 +1436,9 @@
 ||seotagg.com^
 ||sermo.com^
 ||sf-tb-sg.ibytedtos.com^
+||sf1-ttcdn-tos.pstatp.com^
+||sf16-ttcdn-tos.ipstatp.com^
+||sf6-ttcdn-tos.pstatp.com^
 ||sgali3.l.byteoversea.net^
 ||shadows.com^
 ||sharecipe.com^
@@ -1565,14 +1581,42 @@
 ||tib.snssdk.com^
 ||tik-tokapi.com^
 ||tiktok.com^
+||tiktok.in^
 ||tiktok.org^
 ||tiktokcdn-com.akamaized.net^
+||tiktokcdn-eu.com^
+||tiktokcdn-eu.net^
+||tiktokcdn-in.com^
+||tiktokcdn-us.com.atomile.com^
 ||tiktokcdn-us.com^
+||tiktokcdn.com.atomile.com^
+||tiktokcdn.com.c.bytefcdn-oversea.com^
+||tiktokcdn.com.c.bytefcdn-ttpeu.com^
+||tiktokcdn.com.c.bytetcdn.com^
+||tiktokcdn.com.c.worldfcdn.com^
+||tiktokcdn.com.qlivecdn.com^
+||tiktokcdn.com.rocket-cdn.com^
+||tiktokcdn.com.tlivepush.com^
 ||tiktokcdn.com^
+||tiktokd.org^
+||tiktokglobalshop.com^
+||tiktokglobalshopv.com^
+||tiktokmusic.app^
+||tiktokshop.com^
+||tiktokstaticb.com^
+||tiktokv.com.c.bytefcdn-oversea.com^
+||tiktokv.com.c.worldfcdn.com^
+||tiktokv.com.c.worldfcdn2.com^
 ||tiktokv.com^
+||tiktokv.eu^
+||tiktokv.us^
 ||tipd.com^
 ||tipstrs.com^
+||tlivecdn.com^
+||tobapplog.snssdk.com^
+||toblog.snssdk.com^
 ||tokcount.com^
+||toutiao-frontier.snssdk.com^
 ||tr.snapchat.com^
 ||trailfire.com^
 ||travbuddy.com^
@@ -1585,7 +1629,14 @@
 ||trombi.com^
 ||truemors.com^
 ||trulia.com^
+||tsearch.snssdk.com^
+||ttapis.com^
+||ttdns2.com^
+||ttlivecdn.com.c.bytefcdn-oversea.com^
+||ttlivecdn.com.c.worldfcdn.com^
 ||ttlivecdn.com^
+||ttoversea.net^
+||ttoverseaus.net^
 ||ttwstatic.com^
 ||tubearoo.com^
 ||tuenti.com^
