@@ -1,35 +1,11 @@
-## List Name: SystemJargon_Block_SocialMedia_AG_user-child.txt
-## Last Update: March 2023 (1735 entries including regex)
-## Author: SystemJargon
-## This list is meant to be used in AdGuard solutions only. Example AdGuardHome. You will need to tag devices with user_child prior.
-## I ask that if you copy this list or reuse it - that you keep these comments intact or attribute my username and repo url as the original source.
-## This list originally should be from one of the repos below.
-## Blocklists repo https://github.com/systemjargon/blocklists
-## Filters repo https://github.com/systemjargon/filters
-## this list does not block Mastodon
-# wildcard regex
-||(\.|^)byteoversea\.com$^$ctag=user_child
-||(\.|^)cdninstagram\.com$^$ctag=user_child
-||(\.|^)facebook\.com$^$ctag=user_child
-||(\.|^)fb\.me$^$ctag=user_child
-||(\.|^)fbcdn\.com$^$ctag=user_child
-||(\.|^)fbsbx\.com$^$ctag=user_child
-||(\.|^)instagram\.com$^$ctag=user_child
-||(\.|^)instagramstatic-a.akamaihd\.net$^$ctag=user_child
-||(\.|^)sc-cdn\.net$^$ctag=user_child
-||(\.|^)sc-gw\.com$^$ctag=user_child
-||(\.|^)sc-prod\.net$^$ctag=user_child
-||(\.|^)sc-proxy\.com$^$ctag=user_child
-||(\.|^)snap\.com$^$ctag=user_child
-||(\.|^)snapchat\.com$^$ctag=user_child
-||(\.|^)tfbnw\.net$^$ctag=user_child
-||(\.|^)tiktok\.com$^$ctag=user_child
-||(\.|^)tiktokcdn-com.akamaized\.net$^$ctag=user_child
-||(\.|^)tiktokcdn\.com$^$ctag=user_child
-||(\.|^)whatsapp-cdn\.net$^$ctag=user_child
-||(\.|^)whatsapp-prod\.net$^$ctag=user_child
-||(\.|^)whatsapp\.com$^$ctag=user_child
-# domains and url patterns
+||*byteoversea*^$ctag=user_child
+||*facebook*^$ctag=user_child
+||*ibytedtos*^$ctag=user_child
+||*instagram*^$ctag=user_child
+||*snapchat*^$ctag=user_child
+||*tiktok*^$ctag=user_child
+||*ttlivecdn*^$ctag=user_child
+||*whatsapp*^$ctag=user_child
 ||0-edge-chat.facebook.com^$ctag=user_child
 ||1-edge-chat.facebook.com^$ctag=user_child
 ||10tune.com^$ctag=user_child
@@ -426,6 +402,11 @@
 ||busuu.com^$ctag=user_child
 ||buzzflash.net^$ctag=user_child
 ||buzznet.com^$ctag=user_child
+||byteglb.com^$ctag=user_child
+||byteigtm.com^$ctag=user_child
+||byteimg.com^$ctag=user_child
+||byteoversea.com^$ctag=user_child
+||byteoversea.net^$ctag=user_child
 ||cafemom.com^$ctag=user_child
 ||cakefinancial.com^$ctag=user_child
 ||cardomain.com^$ctag=user_child
@@ -974,6 +955,7 @@
 ||humblevoice.com^$ctag=user_child
 ||hypediss.com^$ctag=user_child
 ||hyperlinkomatic.com^$ctag=user_child
+||hypstarcdn.com^$ctag=user_child
 ||hyves.net^$ctag=user_child
 ||hyves.nl^$ctag=user_child
 ||i-am-bored.com^$ctag=user_child
@@ -983,6 +965,7 @@
 ||ibritz.com^$ctag=user_child
 ||ibytedos.com^$ctag=user_child
 ||ibytedtos.com^$ctag=user_child
+||ibyteimg.com^$ctag=user_child
 ||icarecafe.com^$ctag=user_child
 ||identi.ca^$ctag=user_child
 ||ieji.de^$ctag=user_child
@@ -1155,6 +1138,7 @@
 ||mubi.com^$ctag=user_child
 ||multiply.com^$ctag=user_child
 ||muscdn.com^$ctag=user_child
+||musemuse.cn^$ctag=user_child
 ||musical.ly^$ctag=user_child
 ||musically.ly^$ctag=user_child
 ||mvm.snapchat.com^$ctag=user_child
@@ -1342,6 +1326,9 @@
 ||sanewire.com^$ctag=user_child
 ||sc-analytics.appspot.com^$ctag=user_child
 ||sc-cdn.net^$ctag=user_child
+||sc-gw.com^$ctag=user_child
+||sc-prod.net^$ctag=user_child
+||sc-proxy.com^$ctag=user_child
 ||schuelervz.net^$ctag=user_child
 ||sciencestage.com^$ctag=user_child
 ||scm.sc-jpl.com^$ctag=user_child
@@ -1423,6 +1410,9 @@
 ||seotagg.com^$ctag=user_child
 ||sermo.com^$ctag=user_child
 ||sf-tb-sg.ibytedtos.com^$ctag=user_child
+||sf1-ttcdn-tos.pstatp.com^$ctag=user_child
+||sf16-ttcdn-tos.ipstatp.com^$ctag=user_child
+||sf6-ttcdn-tos.pstatp.com^$ctag=user_child
 ||sgali3.l.byteoversea.net^$ctag=user_child
 ||shadows.com^$ctag=user_child
 ||sharecipe.com^$ctag=user_child
@@ -1565,14 +1555,42 @@
 ||tib.snssdk.com^$ctag=user_child
 ||tik-tokapi.com^$ctag=user_child
 ||tiktok.com^$ctag=user_child
+||tiktok.in^$ctag=user_child
 ||tiktok.org^$ctag=user_child
 ||tiktokcdn-com.akamaized.net^$ctag=user_child
+||tiktokcdn-eu.com^$ctag=user_child
+||tiktokcdn-eu.net^$ctag=user_child
+||tiktokcdn-in.com^$ctag=user_child
+||tiktokcdn-us.com.atomile.com^$ctag=user_child
 ||tiktokcdn-us.com^$ctag=user_child
+||tiktokcdn.com.atomile.com^$ctag=user_child
+||tiktokcdn.com.c.bytefcdn-oversea.com^$ctag=user_child
+||tiktokcdn.com.c.bytefcdn-ttpeu.com^$ctag=user_child
+||tiktokcdn.com.c.bytetcdn.com^$ctag=user_child
+||tiktokcdn.com.c.worldfcdn.com^$ctag=user_child
+||tiktokcdn.com.qlivecdn.com^$ctag=user_child
+||tiktokcdn.com.rocket-cdn.com^$ctag=user_child
+||tiktokcdn.com.tlivepush.com^$ctag=user_child
 ||tiktokcdn.com^$ctag=user_child
+||tiktokd.org^$ctag=user_child
+||tiktokglobalshop.com^$ctag=user_child
+||tiktokglobalshopv.com^$ctag=user_child
+||tiktokmusic.app^$ctag=user_child
+||tiktokshop.com^$ctag=user_child
+||tiktokstaticb.com^$ctag=user_child
+||tiktokv.com.c.bytefcdn-oversea.com^$ctag=user_child
+||tiktokv.com.c.worldfcdn.com^$ctag=user_child
+||tiktokv.com.c.worldfcdn2.com^$ctag=user_child
 ||tiktokv.com^$ctag=user_child
+||tiktokv.eu^$ctag=user_child
+||tiktokv.us^$ctag=user_child
 ||tipd.com^$ctag=user_child
 ||tipstrs.com^$ctag=user_child
+||tlivecdn.com^$ctag=user_child
+||tobapplog.snssdk.com^$ctag=user_child
+||toblog.snssdk.com^$ctag=user_child
 ||tokcount.com^$ctag=user_child
+||toutiao-frontier.snssdk.com^$ctag=user_child
 ||tr.snapchat.com^$ctag=user_child
 ||trailfire.com^$ctag=user_child
 ||travbuddy.com^$ctag=user_child
@@ -1585,7 +1603,14 @@
 ||trombi.com^$ctag=user_child
 ||truemors.com^$ctag=user_child
 ||trulia.com^$ctag=user_child
+||tsearch.snssdk.com^$ctag=user_child
+||ttapis.com^$ctag=user_child
+||ttdns2.com^$ctag=user_child
+||ttlivecdn.com.c.bytefcdn-oversea.com^$ctag=user_child
+||ttlivecdn.com.c.worldfcdn.com^$ctag=user_child
 ||ttlivecdn.com^$ctag=user_child
+||ttoversea.net^$ctag=user_child
+||ttoverseaus.net^$ctag=user_child
 ||ttwstatic.com^$ctag=user_child
 ||tubearoo.com^$ctag=user_child
 ||tuenti.com^$ctag=user_child
@@ -1665,6 +1690,8 @@
 ||whatsapp-cdn-shv-01-ord1.fbcdn.net^$ctag=user_child
 ||whatsapp-cdn-shv-01-sea1.fbcdn.net^$ctag=user_child
 ||whatsapp-cdn-shv-01-sjc2.fbcdn.net^$ctag=user_child
+||whatsapp-cdn.net^$ctag=user_child
+||whatsapp-prod.net^$ctag=user_child
 ||whatsapp.com^$ctag=user_child
 ||white.ish.instagram.com^$ctag=user_child
 ||whoissick.org^$ctag=user_child

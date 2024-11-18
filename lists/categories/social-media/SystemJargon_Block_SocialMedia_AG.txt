@@ -1,40 +1,11 @@
-## List Name: SystemJargon_Block_SocialMedia_AG.txt
-## Last Update: November 2024
-## Author: SystemJargon
-## This list is meant to be used in adblock solutions only. Example AdGuardHome.
-## I ask that if you copy this list or reuse it - that you keep these comments intact or attribute my username and repo url as the original source.
-## This list originally should be from one of the repos below.
-## Blocklists repo https://github.com/systemjargon/blocklists
-## Filters repo https://github.com/systemjargon/filters
-## this list does not block Mastodon
-# wildcard regex
-||(\.|^)byteoversea\.com$^
-||(\.|^)cdninstagram\.com$^
-||(\.|^)facebook\.com$^
-||(\.|^)fb\.me$^
-||(\.|^)fbcdn\.com$^
-||(\.|^)fbsbx\.com$^
-||(\.|^)instagram\.com$^
-||(\.|^)instagramstatic-a.akamaihd\.net$^
-||(\.|^)sc-cdn\.net$^
-||(\.|^)sc-gw\.com$^
-||(\.|^)sc-prod\.net$^
-||(\.|^)sc-proxy\.com$^
-||(\.|^)snap\.com$^
-||(\.|^)snapchat\.com$^
-||(\.|^)tfbnw\.net$^
-||(\.|^)tiktok\.com$^
-||(\.|^)tiktokcdn-com.akamaized\.net$^
-||(\.|^)tiktokcdn\.com$^
-||(\.|^)whatsapp-cdn\.net$^
-||(\.|^)whatsapp-prod\.net$^
-||(\.|^)whatsapp\.com$^
-# tiktok and common words in regex
 ||*byteoversea*^
+||*facebook*^
 ||*ibytedtos*^
+||*instagram*^
+||*snapchat*^
 ||*tiktok*^
 ||*ttlivecdn*^
-# domains and url patterns
+||*whatsapp*^
 ||0-edge-chat.facebook.com^
 ||1-edge-chat.facebook.com^
 ||10tune.com^
@@ -1355,6 +1326,9 @@
 ||sanewire.com^
 ||sc-analytics.appspot.com^
 ||sc-cdn.net^
+||sc-gw.com^
+||sc-prod.net^
+||sc-proxy.com^
 ||schuelervz.net^
 ||sciencestage.com^
 ||scm.sc-jpl.com^
@@ -1716,6 +1690,8 @@
 ||whatsapp-cdn-shv-01-ord1.fbcdn.net^
 ||whatsapp-cdn-shv-01-sea1.fbcdn.net^
 ||whatsapp-cdn-shv-01-sjc2.fbcdn.net^
+||whatsapp-cdn.net^
+||whatsapp-prod.net^
 ||whatsapp.com^
 ||white.ish.instagram.com^
 ||whoissick.org^
