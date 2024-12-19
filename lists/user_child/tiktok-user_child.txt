@@ -1,8 +1,15 @@
 # regex
 ||*bytedance*^$ctag=user_child
+||*bytegeo*^$ctag=user_child
 ||*byteoversea*^$ctag=user_child
+||*capcutstatic*^$ctag=user_child
+||*ibytedtos*^$ctag=user_child
+||*musical.ly*^$ctag=user_child
+||*tikcdn.net*^$ctag=user_child
 ||*tiktok*^$ctag=user_child
 ||*tiktokcdn*^$ctag=user_child
+||*ttlivecdn*^$ctag=user_child
+||*tiktokv.com*^$ctag=user_child
 # ip addresses not all but some common ones
 ||161.117.70.136^$ctag=user_child
 ||161.117.70.145^$ctag=user_child
@@ -21,6 +28,7 @@
 ||47.252.50.101^$ctag=user_child
 ||47.252.50.157^$ctag=user_child
 # domains
+!||a1846.b.akamai.net^$ctag=user_child
 ||abtest-sg-tiktok.byteoversea.com^$ctag=user_child
 ||abtest-va-tiktok.byteoversea.com^$ctag=user_child
 ||akamai.net^$ctag=user_child
@@ -29,7 +37,10 @@
 ||api21-h2.tiktokv.com^$ctag=user_child
 ||atomile.com^$ctag=user_child
 ||byteglb.com^$ctag=user_child
+||bytegeo.akadns.net^$ctag=user_child
 ||byteoversea.net^$ctag=user_child
+||capcutapi.com^$ctag=user_child
+||capcutstatic.com^$ctag=user_child
 ||dm-maliva16.byteoversea.com^$ctag=user_child
 ||dm.bytedance.com^$ctag=user_child
 ||f-p.sgsnssdk.com^$ctag=user_child
@@ -71,6 +82,7 @@
 ||p26-tt.byteimg.com^$ctag=user_child
 ||p3-tt-ipv6.byteimg.com^$ctag=user_child
 ||p9-tt.byteimg.com^$ctag=user_child
+||pipopay.com^$ctag=user_child
 ||pull-f3-hs.pstatp.com^$ctag=user_child
 ||pull-f5-hs.flive.pstatp.com^$ctag=user_child
 ||pull-f5-hs.pstatp.com^$ctag=user_child
@@ -143,6 +155,7 @@
 ||ttoversea.net^$ctag=user_child
 ||ttoverseaus.net^$ctag=user_child
 ||ttwstatic.com^$ctag=user_child
+||v16-vod.capcutvod.com^$ctag=user_child
 ||v16-tiktokcdn-com.akamaized.net^$ctag=user_child
 ||v16.tiktokcdn.com^$ctag=user_child
 ||v19.tiktokcdn.com^$ctag=user_child
