@@ -31,7 +31,7 @@
 !||a1846.b.akamai.net^$ctag=user_child
 ||abtest-sg-tiktok.byteoversea.com^$ctag=user_child
 ||abtest-va-tiktok.byteoversea.com^$ctag=user_child
-||akamai.net^$ctag=user_child
+!||akamai.net^$ctag=user_child
 ||api-h2.tiktokv.com^$ctag=user_child
 ||api.tiktokv.com^$ctag=user_child
 ||api21-h2.tiktokv.com^$ctag=user_child
