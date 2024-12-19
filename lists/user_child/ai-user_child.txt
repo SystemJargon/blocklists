@@ -22,7 +22,14 @@
 ||deepai.org^$ctag=user_child
 ||talkai.info^$ctag=user_child
 ||poe.com^$ctag=user_child
-# regex of words  
+# regex of words and domain patterns
 ||*aichat*^$ctag=user_child
+||*openai*^$ctag=user_child
+||*-ai.ai^$ctag=user_child
+||*-ai.com^$ctag=user_child
+||*-ai.io^$ctag=user_child
+||*-ai.net^$ctag=user_child
+||*-ai.org^$ctag=user_child
+||*-ai.*^$ctag=user_child
 # TLD .ai
 ||*.ai^$ctag=user_child
