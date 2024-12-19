@@ -1,7 +1,8 @@
 # regex
-!||*byteoversea*^$ctag=user_child
-!||*tiktok*^$ctag=user_child
-!||*tiktokcdn*^$ctag=user_child
+||*bytedance*^$ctag=user_child
+||*byteoversea*^$ctag=user_child
+||*tiktok*^$ctag=user_child
+||*tiktokcdn*^$ctag=user_child
 # ip addresses not all but some common ones
 ||161.117.70.136^$ctag=user_child
 ||161.117.70.145^$ctag=user_child
@@ -28,6 +29,7 @@
 ||api21-h2.tiktokv.com^$ctag=user_child
 ||atomile.com^$ctag=user_child
 ||byteglb.com^$ctag=user_child
+||byteoversea.net^$ctag=user_child
 ||dm-maliva16.byteoversea.com^$ctag=user_child
 ||dm.bytedance.com^$ctag=user_child
 ||f-p.sgsnssdk.com^$ctag=user_child
