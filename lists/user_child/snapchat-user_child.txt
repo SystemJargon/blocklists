@@ -77,8 +77,9 @@
 # Location?
 ||loca.sc-jpl.com^$ctag=user_child
 # wildcard regex
-!||*snapchat.com*^$ctag=user_child
-!||*sc-cdn.net*^$ctag=user_child
-!||*sc-prod.net*^$ctag=user_child
-!||*sc-gw.com*^$ctag=user_child
-!||*sc-proxy.com*^$ctag=user_child
+||*snapchat*^$ctag=user_child
+||*snapchat.com*^$ctag=user_child
+||*sc-cdn.net*^$ctag=user_child
+||*sc-prod.net*^$ctag=user_child
+||*sc-gw.com*^$ctag=user_child
+||*sc-proxy.com*^$ctag=user_child
