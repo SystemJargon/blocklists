@@ -1,5 +1,11 @@
 ! Created by github.com/SystemJargon/blocklists
-! Syntax: AdBlock
+! Syntax: AdBlock - AdGuard ctag included for user_child
+! regex for doh and dot common domain patterns
+||*doh-*^$ctag=user_child
+||*doh.*^$ctag=user_child
+||dot-*^$ctag=user_child
+||*dot.*^$ctag=user_child
+! domains
 ||0000a-fast-proxy.de^$ctag=user_child
 ||012proxy.ga^$ctag=user_child
 ||0x3d.lu^$ctag=user_child
