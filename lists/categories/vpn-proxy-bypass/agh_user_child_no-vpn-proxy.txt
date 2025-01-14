@@ -539,7 +539,11 @@
 ||cloudflare-dns.com^$ctag=user_child
 ||cloudflare-gateway.com^$ctag=user_child
 ||cloudflare.com^$ctag=user_child
+||cloudflareaccess.com^$ctag=user_child
 ||cloudflareclient.com^$ctag=user_child
+||cloudflarecp.com^$ctag=user_child
+||cloudflareok.com^$ctag=user_child
+||cloudflareportal.com^$ctag=user_child
 ||cloudflareresolve.com^$ctag=user_child
 ||cloudns.bosco.ovh^$ctag=user_child
 ||cloudnymous.com^$ctag=user_child
