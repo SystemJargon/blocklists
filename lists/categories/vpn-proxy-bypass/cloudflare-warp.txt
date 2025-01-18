@@ -1,0 +1,13 @@
+! general
+||one.one.one.one^
+! android
+||cloudflare-dns.com^
+! authentication endpoint
+||cloudflareaccess.com^
+! captive portal
+||cloudflareportal.com^
+||cloudflareok.com^
+||cloudflarecp.com^
+! connectivity check
+||engage.cloudflareclient.com^
+||connectivity.cloudflareclient.com^
