@@ -1,0 +1,3 @@
+# xiaohongshu also known as redbook
+||xiaohongshu.com^$important
+||*xiaohongshu*^$important
