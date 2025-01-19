@@ -146,6 +146,8 @@
 ||tiktokv.com^$ctag=user_child
 ||tiktokv.eu^$ctag=user_child
 ||tiktokv.us^$ctag=user_child
+||tiktokeu-cdn.com^$ctag=user_child
+||tiktokrow-cdn.com^$ctag=user_child
 ||tlivecdn.com^$ctag=user_child
 ||ttapis.com^$ctag=user_child
 ||ttdns2.com^$ctag=user_child
