@@ -111,6 +111,7 @@
 ||a.safe.ns.dnslify.com^
 ||a.zpn.me^
 ||a1free-optimal.prcdn.net^
+||a3ehe.com^
 ||abcproxy.com^
 ||abe01.dnscry.pt^
 ||abel.waringer-atg.de^
@@ -310,6 +311,7 @@
 ||api.bytelixir.com^
 ||api.catch.gift^
 ||api.cloudflareclient.com^
+||api.du-just-link.com^
 ||api.phantom.avira-vpn.com^
 ||api.sec-tunnel.com^
 ||api.surfeasy.com^
@@ -475,8 +477,10 @@
 ||c-dns.com^
 ||c.cicitt.ch^
 ||c.cpfrx.info^
+||c1testomega.io
 ||ca.doh.cloudveil.org^
 ||cactusvpn.com^
+||calculuscrafter.com^
 ||calculusproblems.online^
 ||callies-online.site^
 ||canadaproxy.info^
@@ -515,6 +519,7 @@
 ||citizenvpn.com^
 ||cjdns.cloudflare.com^
 ||clase-de-arte.vercel.app^
+||classbegainus.com^
 ||classroomsusa.com^
 ||cleanbrowsing.org^
 ||clearvpn.co.uk^
@@ -1510,6 +1515,7 @@
 ||edpuzzle.space^
 ||eduacation.lol^
 ||eduforgeonline.com^
+||edustatlab.com^
 ||elephantvpn.com^
 ||elgatobypasses.org^
 ||eliatofani.ovh^
@@ -1717,6 +1723,7 @@
 ||frysprinters.com^
 ||fuchur.pentament.de^
 ||fun4school.store^
+||futuretechuu.com^
 ||fwgw.orangepipc.mywire.org^
 ||gabstorm.com^
 ||galeben.fr^
@@ -1735,6 +1742,7 @@
 ||geckovpn.xyz^
 ||geekproxy.com^
 ||geg01.dnscry.pt^
+||genetherapyhub.com^
 ||genmirror.com^
 ||geoguessr.lol^
 ||geosurf.com^
@@ -2107,6 +2115,7 @@
 ||kiv01.dnscry.pt^
 ||klcknerrip.com^
 ||kmmasxeysu.com^
+||knowledgenurtures.com^
 ||knvpn.net^
 ||ko-18948-tr.xyz^
 ||korzhov.dev^
@@ -2222,10 +2231,12 @@
 ||masterssh.com^
 ||mastersslvpn.gq^
 ||math.isreally.pro^
+||mathcraftinghub.com^
 ||mathhelpnow.site^
 ||mathlearning.tech^
 ||mathnotes.help^
 ||mathnotes.icu^
+||mathwizcentral.com^
 ||maxfong.cc^
 ||maxvpn.info^
 ||mazevpn.com^
@@ -2234,6 +2245,7 @@
 ||mecca-is.so-gorgeo.us.kg^
 ||mediahint.com^
 ||mediavpn.com^
+||medicinetechnet.com^
 ||mega123proxy.com^
 ||meganerd.nl^
 ||megaproxy.com^
@@ -2336,6 +2348,7 @@
 ||net01.youcef.io^
 ||netaltr.com^
 ||netcup.mismat.ch^
+||netexplores.com^
 ||netnut.io^
 ||netscop.net^
 ||netvpn.us^
@@ -2594,6 +2607,7 @@
 ||piraproxy.org^
 ||pirataproxy.com^
 ||piratebayproxy.co^
+||pixelpioneeres.com^
 ||pixelprivacy.com^
 ||pixolium.com^
 ||pkproxy.info^
@@ -2641,6 +2655,7 @@
 ||pq7hdf.com^
 ||pr0xy.com^
 ||predecessor.info^
+||premium.xvpn.io^
 ||premiumproxy.net^
 ||presidentalhistory.wiki^
 ||primeproxy23.info^
@@ -2994,6 +3009,7 @@
 ||schoolproxy.co^
 ||schooxy.com^
 ||sciencesimplified.pro^
+||se2cds.com^
 ||se3v5tjfff3aet.me^
 ||sea01.dnscry.pt^
 ||sec-tunnel.com^
@@ -3173,7 +3189,9 @@
 ||streamvpn.com^
 ||strongvpn.com^
 ||study.englishpapers.online^
+||studystudyup.com^
 ||studysurf.com^
+||studyupus.com^
 ||stuffyschicken.isreallycool.lol^
 ||stufy.englishpapers.online^
 ||stunnel.org^
@@ -3187,6 +3205,7 @@
 ||sunvpn.net^
 ||super123.org^
 ||super123proxy.com^
+||superapi.cz^
 ||superbproxy.com^
 ||superfreevpn.com^
 ||superproxy123.com^
@@ -3263,6 +3282,7 @@
 ||tbunet.com^
 ||tcpvpn.com^
 ||tecdrive.site^
+||techtoolforge.com^
 ||telleport.me^
 ||tenta.com^
 ||tenta.io^
@@ -3857,6 +3877,7 @@
 ||vpsus3.pzhg.me^
 ||vtcuong.site^
 ||vyprvpn.com^
+||waahf.com^
 ||waitfree.us^
 ||walln.com^
 ||wantaquddin.com^
@@ -3891,6 +3912,7 @@
 ||websitebypass.com^
 ||websiteproxy.net^
 ||websitevpnx.com^
+||websmatrix.com^
 ||websurf.in^
 ||websurfproxy.me^
 ||websynchrony.com^
@@ -3976,6 +3998,7 @@
 ||xvbelink.com^
 ||xvideos-cdn.com^
 ||xvpn-web.com^
+||xvpn.*^
 ||xvpn.io^
 ||yandex.com^
 ||yarp.lefolgoc.net^
