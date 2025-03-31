@@ -33,6 +33,14 @@ More about this in my Pi-hole repo with regex [here](https://github.com/SystemJa
 
 ----
 
+## regex keywords - domains containing specific words
+
+example of blocking words, elephant, zebra, submarine, orange, lagoon (change this to your own keywords).
+
+```.*(elephant|zebra|submarine|orange|lagoon).*	```
+
+----
+
 ## Strip sub-domains to root domain (Find)
 
 Example Notepad++
