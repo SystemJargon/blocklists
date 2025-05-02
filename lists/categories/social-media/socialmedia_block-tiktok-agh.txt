@@ -20,7 +20,6 @@
 ||47.252.50.101^
 ||47.252.50.157^
 ||abtest-va-tiktok.byteoversea.com^
-||akamai.net^
 ||api-h2.tiktokv.com^
 ||api.tiktokv.com^
 ||api21-h2.tiktokv.com^
