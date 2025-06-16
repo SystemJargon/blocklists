@@ -1,0 +1,4 @@
+# not a complete list for hosting just a few common domains
+latitude.sh
+linode.com
+digitalocean.com
