@@ -498,6 +498,7 @@
 ||cbentertainment.online^
 ||cdn77.com^
 ||cdnjs.cloudflare.com^
+||operacdn.com^
 ||cedarbranches.com^
 ||celo.net^
 ||cfdjb.org^
