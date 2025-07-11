@@ -1,0 +1,6 @@
+# tld-region3.txt - Sanctioned by a 5-eyes nation or the U.S.A and not on tld-region1 or tld-region2 lists
+||*.by^   # Belarus
+||*.cu^   # Cuba
+||*.kp^   # North Korea
+||*.ru^   # Russia
+||*.ve^   # Venezuela
