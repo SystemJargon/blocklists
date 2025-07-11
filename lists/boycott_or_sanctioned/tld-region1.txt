@@ -1,47 +1,53 @@
 # tld-region1.txt - Anti Western and/or Islamic Nations
-||*.ae^
-||*.af^
-||*.al^
-||*.az^
-||*.ba^
-||*.bd^
-||*.bh^
-||*.bn^
-||*.dj^
-||*.dz^
-||*.eg^
-||*.eh^
-||*.id^
-||*.iq^
-||*.ir^
-||*.jo^
-||*.kg^
-||*.km^
-||*.kw^
-||*.kz^
-||*.lb^
-||*.ly^
-||*.ma^
-||*.ml^
-||*.mr^
-||*.mu^
-||*.mv^
-||*.my^
-||*.mz^
-||*.ne^
-||*.om^
-||*.pk^
-||*.ps^
-||*.qa^
-||*.sa^
-||*.sd^
-||*.sl^
-||*.sn^
-||*.so^
-||*.sy^
-||*.tn^
-||*.tr^
-||*.uz^
-||*.xk^
-||*.ye^
-||*.za^
+||*.af^   # Afghanistan
+||*.al^   # Albania
+||*.dz^   # Algeria
+||*.az^   # Azerbaijan
+||*.bd^   # Bangladesh
+||*.bh^   # Bahrain
+||*.bj^   # Benin
+||*.bn^   # Brunei
+||*.bf^   # Burkina Faso
+||*.td^   # Chad
+||*.km^   # Comoros
+||*.ci^   # Côte d'Ivoire (Ivory Coast)
+||*.dj^   # Djibouti
+||*.eg^   # Egypt
+||*.gm^   # Gambia
+||*.gn^   # Guinea
+||*.gw^   # Guinea-Bissau
+||*.id^   # Indonesia
+||*.ir^   # Iran
+||*.iq^   # Iraq
+||*.jo^   # Jordan
+||*.kz^   # Kazakhstan
+||*.kw^   # Kuwait
+||*.kg^   # Kyrgyzstan
+||*.lb^   # Lebanon
+||*.ly^   # Libya
+||*.my^   # Malaysia
+||*.mv^   # Maldives
+||*.ml^   # Mali
+||*.ma^   # Morocco
+||*.mr^   # Mauritania
+||*.ne^   # Niger
+||*.ng^   # Nigeria
+||*.om^   # Oman
+||*.pk^   # Pakistan
+||*.ps^   # Palestine
+||*.qa^   # Qatar
+||*.sa^   # Saudi Arabia
+||*.sn^   # Senegal
+||*.sl^   # Sierra Leone
+||*.so^   # Somalia
+||*.sd^   # Sudan
+||*.ss^   # South Sudan
+||*.sy^   # Syria
+||*.tj^   # Tajikistan
+||*.tr^   # Turkey
+||*.tm^   # Turkmenistan
+||*.tn^   # Tunisia
+||*.ae^   # United Arab Emirates
+||*.uz^   # Uzbekistan
+||*.ye^   # Yemen
+||*.xk^   # Kosovo (unofficial TLD)
