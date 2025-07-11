@@ -1,3 +1,35 @@
+# TLDs often associated with cybercriminal activity, malware, phishing, abuse
+||*.top^
+||*.xyz^
+||*.gq^
+||*.cf^
+||*.ml^
+||*.ga^
+||*.tk^
+||*.pw^
+||*.su^
+||*.to^
+||*.ws^
+||*.cc^
+||*.buzz^
+||*.click^
+||*.rest^
+||*.work^
+||*.fit^
+||*.beauty^
+||*.cam^
+||*.monster^
+||*.stream^
+||*.live^
+||*.online^
+||*.site^
+||*.space^
+||*.website^
+||*.club^
+||*.support^
+||*.zip^
+||*.mov^
+# further domains
 ||0.x4k.me^
 ||0701baibao-1305586011.cos.ap-nanjing.myqcloud.com^
 ||0enhzs.moolin.ru^
