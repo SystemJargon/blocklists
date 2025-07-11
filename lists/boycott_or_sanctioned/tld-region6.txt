@@ -1,7 +1,0 @@
-# tld-region6.txt
-# 5-eyes
-@@||*.us^    # United States
-@@||*.ca^    # Canada
-@@||*.gb^    # United Kingdom
-@@||*.au^    # Australia
-@@||*.nz^    # New Zealand
