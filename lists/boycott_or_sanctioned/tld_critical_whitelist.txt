@@ -1,0 +1,41 @@
+# tld_critical_whitelist.txt
+# IMPORTANT - This is meant to be an allowlist not a blocklist
+@@||.gov^           # US government domains - official federal, state, and local agencies
+@@||.mil^           # US military domains - Department of Defense and affiliated services
+@@||.us^            # United States country code TLD - general US infrastructure and services
+@@||.int^           # International treaty organizations and protocols
+@@||.arpa^          # Infrastructure TLD - reverse DNS and technical namespaces
+@@||.edu^           # US educational institutions - universities and research bodies
+@@||.ca^            # Canada country code - key US ally and partner nation
+@@||.uk^            # United Kingdom country code - major US ally
+@@||.au^            # Australia country code - Five Eyes member and ally
+@@||.nz^            # New Zealand country code - Five Eyes member and ally
+@@||.eu^            # European Union - regional governance and infrastructure
+@@||.de^            # Germany country code - key NATO ally
+@@||.fr^            # France country code - key NATO ally
+@@||.jp^            # Japan country code - key US ally in Asia-Pacific
+@@||.kr^            # South Korea country code - important US partner
+@@||.nl^            # Netherlands country code - NATO ally with major internet infrastructure
+@@||.se^            # Sweden country code - NATO member (since 2023)
+@@||.no^            # Norway country code - NATO ally
+@@||.fi^            # Finland country code - NATO member (since 2023)
+@@||.dk^            # Denmark country code - NATO ally
+@@||.be^            # Belgium country code - NATO headquarters country
+@@||.ch^            # Switzerland country code - international organizations host
+@@||.it^            # Italy country code - NATO ally
+@@||.es^            # Spain country code - NATO ally
+@@||.pl^            # Poland country code - NATO ally and Eastern Europe partner
+@@||.cz^            # Czech Republic country code - NATO ally
+@@||.ie^            # Ireland country code - important EU member
+@@||.pt^            # Portugal country code - NATO ally
+@@||.lu^            # Luxembourg country code - EU and NATO member
+@@||.gr^            # Greece country code - NATO ally
+@@||.is^            # Iceland country code - founding NATO member without standing army
+@@||ntp.gov^        # US government NTP servers - time synchronization critical for systems
+@@||dns.gov^        # US government DNS infrastructure - critical DNS services
+@@||emergency.gov^  # Hypothetical US emergency management domains
+@@||who.int^        # World Health Organization - global public health coordination
+@@||un.org^         # United Nations - international governance and peacekeeping
+@@||icann.org^      # Internet Corporation for Assigned Names and Numbers - DNS oversight
+@@||iana.org^       # Internet Assigned Numbers Authority - DNS root zone management
+@@||root-servers.net^ # DNS root servers - fundamental to global DNS operation
