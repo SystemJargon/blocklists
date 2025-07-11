@@ -1,0 +1,58 @@
+# tld-region2.txt - African Nations
+||*.ao^   # Angola
+||*.bj^   # Benin
+||*.bw^   # Botswana
+||*.bf^   # Burkina Faso
+||*.bi^   # Burundi
+||*.cv^   # Cabo Verde
+||*.cm^   # Cameroon
+||*.cf^   # Central African Republic
+||*.td^   # Chad
+||*.km^   # Comoros
+||*.cd^   # Democratic Republic of the Congo
+||*.cg^   # Republic of the Congo
+||*.ci^   # Côte d'Ivoire (Ivory Coast)
+||*.dj^   # Djibouti
+||*.eg^   # Egypt
+||*.gq^   # Equatorial Guinea
+||*.er^   # Eritrea
+||*.sz^   # Eswatini (Swaziland)
+||*.et^   # Ethiopia
+||*.ga^   # Gabon
+||*.gm^   # Gambia
+||*.gh^   # Ghana
+||*.gn^   # Guinea
+||*.gw^   # Guinea-Bissau
+||*.ke^   # Kenya
+||*.ls^   # Lesotho
+||*.lr^   # Liberia
+||*.ly^   # Libya
+||*.mg^   # Madagascar
+||*.mw^   # Malawi
+||*.ml^   # Mali
+||*.mr^   # Mauritania
+||*.mu^   # Mauritius
+||*.yt^   # Mayotte
+||*.ma^   # Morocco
+||*.mz^   # Mozambique
+||*.na^   # Namibia
+||*.ne^   # Niger
+||*.ng^   # Nigeria
+||*.re^   # Réunion
+||*.rw^   # Rwanda
+||*.sh^   # Saint Helena
+||*.st^   # São Tomé and Príncipe
+||*.sn^   # Senegal
+||*.sc^   # Seychelles
+||*.sl^   # Sierra Leone
+||*.so^   # Somalia
+||*.za^   # South Africa
+||*.ss^   # South Sudan
+||*.sd^   # Sudan
+||*.tz^   # Tanzania
+||*.tg^   # Togo
+||*.tn^   # Tunisia
+||*.ug^   # Uganda
+||*.eh^   # Western Sahara
+||*.zm^   # Zambia
+||*.zw^   # Zimbabwe
