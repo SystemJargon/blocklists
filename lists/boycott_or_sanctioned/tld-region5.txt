@@ -1,0 +1,36 @@
+# tld-region5.txt
+# NATO members and alliances
+||*.us^    # United States
+||*.ca^    # Canada
+||*.gb^    # United Kingdom
+||*.fr^    # France
+||*.de^    # Germany
+||*.it^    # Italy
+||*.es^    # Spain
+||*.nl^    # Netherlands
+||*.be^    # Belgium
+||*.no^    # Norway
+||*.dk^    # Denmark
+||*.se^    # Sweden
+||*.fi^    # Finland
+||*.pt^    # Portugal
+||*.lu^    # Luxembourg
+||*.is^    # Iceland
+||*.gr^    # Greece
+||*.pl^    # Poland
+||*.cz^    # Czech Republic
+||*.hu^    # Hungary
+||*.ro^    # Romania
+||*.sk^    # Slovakia
+||*.tr^    # Turkey
+||*.bg^    # Bulgaria
+||*.al^    # Albania
+||*.hr^    # Croatia
+||*.lv^    # Latvia
+||*.lt^    # Lithuania
+||*.ee^    # Estonia
+||*.mt^    # Malta
+||*.mk^    # North Macedonia
+||*.is^    # Iceland
+||*.se^    # Sweden
+||*.fi^    # Finland
