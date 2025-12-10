@@ -4001,6 +4001,7 @@
 ||xvpn-web.com^
 ||xvpn.*^
 ||xvpn.io^
+||xvpn.net^
 ||yandex.com^
 ||yarp.lefolgoc.net^
 ||ychen.cf^
