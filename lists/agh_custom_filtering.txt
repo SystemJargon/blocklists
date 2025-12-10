@@ -1,0 +1,46 @@
+! TOP OF LIST
+! NEXT LINE - DENY IPV6 AAAA LOOKUPS AND GO VIA IPV4
+||*^$dnstype=AAAA
+! block google pre-fetching
+||tunnel.googlezip.net^$important
+! block device_tv tracking nonsense
+||samsungcloudsolution.com^$ctag=device_tv
+||samsungcloudsolution.net^$ctag=device_tv
+||samsungqbe.com^$ctag=device_tv
+! block other stuff which is scam, tracking, malware or un-needed and maybe not on other lists
+||api.segment.io^$important
+||pwcdauseo-zone.cnstrc.com^$important
+||www.tegdainty.com^$important
+||happymammoth.com^$important
+||lightningpay.nz^$important
+||ioi.dk^$important
+||baidu.com^$important
+||gorgias.chat^$important
+||codeandtechedu.com^$important
+||weather-doc.com^$important
+||medicinetechsolutions.com^$important
+||netpioneeres.com^$important
+||brightmindtrack.com^$important
+||advanceddataanalysiscenter.com^$important
+||api-gogles.com^$important
+||goveducenter.com^$important
+||webfusiones.com^$important
+||ota-bundles.lokalise.com^$important
+||ota.lokalise.com^$important
+||uymgg1.com^$important
+||api.silica-prod01.io.lens.poly.com^$important
+||usercentrics.eu^$important
+||helpshift.com^$important
+||popunify-public.cn-zhangbei-center.aliyuncs.com.vipgds.alibabadns.com^$important
+||govt-nztaa.live^$important
+||ecs.office.com^$important
+||reaper.emergetools.com^$important
+||www.pipedrive.com^$important
+||githuhb.com^$important
+||bundle.5gtb.com^$important
+||js.hsforms.net^$important
+||7bd13b0ad4354206b4419d880c780edd.pacloudflare.com^$important
+||d2lqpjm9z4m6jy.cloudfront.net^$important
+||remoteeq.com^$important
+||swapped.com^$important
+||cdn-cookieyes.com^$important
