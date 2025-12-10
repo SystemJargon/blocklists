@@ -3987,6 +3987,7 @@
 ||xvideos-cdn.com^$ctag=user_child
 ||xvpn-web.com^$ctag=user_child
 ||xvpn.io^$ctag=user_child
+||xvpn.net^$ctag=user_child
 ||yandex.com^$ctag=user_child
 ||yarp.lefolgoc.net^$ctag=user_child
 ||ychen.cf^$ctag=user_child
