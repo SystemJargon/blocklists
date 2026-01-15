@@ -1,8 +1,8 @@
 ! TOP OF LIST
 ! NEXT LINE - DENY IPV6 AAAA LOOKUPS AND GO VIA IPV4
-||*^$dnstype=AAAA
+!||*^$dnstype=AAAA
 ! block google pre-fetching
-||tunnel.googlezip.net^$important
+!||tunnel.googlezip.net^$important
 ! block device_tv tracking nonsense
 ||samsungcloudsolution.com^$ctag=device_tv
 ||samsungcloudsolution.net^$ctag=device_tv
