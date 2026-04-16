@@ -1,0 +1,10 @@
+! Block Segway and ninebot updates - experimental
+||segwaydiscovery.com^
+||us-api.segwaydiscovery.com^
+||apac-api.segwaydiscovery.com^
+||eu-api.segwaydiscovery.com^
+||ninebot.com^
+||api.ninebot.com^
+||ota.ninebot.com^
+||apptest.ninebot.cn^
+||ota-apptest.ninebot.cn^
